@@ -1,6 +1,5 @@
 # Youtube-Comedy-Comparison
-
-# AUTHOR = Satish Palaniappan.
+AUTHOR = Satish Palaniappan.
 
 # Dataset INFO below
 
