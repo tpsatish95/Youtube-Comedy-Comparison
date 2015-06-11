@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DUQGRH47eCp7I2A9XRRVFk0.&quot;'><id>tag:youtube.com,2008:video:gqP6Etct1Ik</id><published>2011-05-08T20:09:56.000Z</published><updated>2015-03-17T15:48:45.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Percy's Workout</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/gqP6Etct1Ik?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=gqP6Etct1Ik&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/gqP6Etct1Ik/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=gqP6Etct1Ik'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/2s2L-UVrT9bERz4ViOY_Rw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/gqP6Etct1Ik?v=2'/><author><name>TeddyComedy</name><uri>https://gdata.youtube.com/feeds/api/users/TeddyComedy</uri><yt:userId>2s2L-UVrT9bERz4ViOY_Rw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/gqP6Etct1Ik/comments?v=2' countHint='791'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/gqP6Etct1Ik?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='34' yt:format='5'/><media:content url='rtsp://r7---sn-4g57kuee.c.youtube.com/CiILENy73wIaGQmJ1C3XEvqjghMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='34' yt:format='1'/><media:content url='rtsp://r7---sn-4g57kuee.c.youtube.com/CiILENy73wIaGQmJ1C3XEvqjghMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='34' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='TeddyComedy' yt:type='partner'>teddycomedy</media:credit><media:description type='plain'>Das ist Percy...! 
+
+Was labersch Du......
+Die "Teddy Show" auf Deutschlandtour!!!
+
+Tickets für die Teddy-Show hier: http://www.teddy-show.com/dates/
+
+Tickets für die Teddy-Show hier: http://www.teddy-show.com/dates/
+
+Daten:
+05.02.2015 in Düsseldorf in der Mitsubishi Electric Halle
+06.02.2015 in Bochum im RuhrCongress
+07.02.2015 in Lingen in der EmslandArena
+08.02.2015 in Hamburg im CCH-Cogress Center
+14.02.2015 in Berlin im Tempodrom
+26.02.2015 in Lepizig im Haus Auensee
+27.02.2015 in Suhl im Congress Centrum
+28.02.2015 in Augsburg in der Schwabenhalle
+01.03.2015 in Erlangen in der Heinrich Lades Halle
+05.03.2015 in Neu-Ulm in der ratiopharm arena
+06.03.2015 in Zürich im Volkshaus Zürich
+07.03.2015 in Zürich im Volkshaus Zürich
+13.03.2015 in Stuttgart in der Schleyerhalle
+14.03.2015 in Stuttgart in der Schleyerhalle
+15.04.2015 in Wuppertal in der Historischen Stadthalle
+16.04.2015 in Mönchengladbach in Das Rote Krokodil
+07.05.2015 in Ludwigshafen in der Friedrich-Ebert-Halle
+08.05.2015 in Trier in der Arena Trier
+14.05.2015 in Luzern in der Messe Luzern
+15.05.2015 in Basel im Stadtcasino Basel
+16.05.2015 in St. Gallen in der Messe
+17.05.2015 in Villingen-Schwenningen in der Helios-Arena
+21.05.2015 in Hannover in der SWISS LIFE HALL
+22.05.2015 in Aurich in der Sparkassen-Arena Aurich
+27.05.2015 in München im Circus Krone
+27.05.2015 in München im Circus Krone
+29.05.2015 in Salzburg in der Salzburgarena
+30.05.2015 in Linz in der Tips Arena
+31.05.2015 in Wien in der Stadthalle F
+05.06.2015 in Rastatt im Ehrenhof im Schloß
+11.06.2015 in Würzburg in der S-Oliver Arena
+12.06.2015 in Heppenheim in der Freilichtbühne Heppenheim
+13.06.2015 in Ne-Ulm in der ratiopharm arena
+14.06.2015 in Augsburg in der Schwabenhalle
+
+Tickets gibt es hier: http://bit.ly/1kcRckN
+
+Teddy schlüpft in seine bekannten Rollen, wie Antoine Burtz als Integrationstestkandidaten, überzeugt mit Stand-Up-Einlagen, Musik und Talk mit Studiogästen.
+
+Was labersch Du....
+Fan-Shop:
+http://www.teddy-sein-laden.de/
+
+Webseite:
+http://teddy-show.de/
+
+Facebook:
+https://www.facebook.com/Teddy.Comedy
+_________________________________________________________________________
+
+Darsteller: Tedros Teclebrhan, Christina Neuss, Eva-Maria Popp</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=gqP6Etct1Ik&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/gqP6Etct1Ik/default.jpg' height='90' width='120' time='00:00:17' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/gqP6Etct1Ik/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/gqP6Etct1Ik/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/gqP6Etct1Ik/1.jpg' height='90' width='120' time='00:00:08.500' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/gqP6Etct1Ik/2.jpg' height='90' width='120' time='00:00:17' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/gqP6Etct1Ik/3.jpg' height='90' width='120' time='00:00:25.500' yt:name='end'/><media:title type='plain'>Percy's Workout</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='34'/><yt:uploaded>2011-05-08T20:09:56.000Z</yt:uploaded><yt:uploaderId>UC2s2L-UVrT9bERz4ViOY_Rw</yt:uploaderId><yt:videoid>gqP6Etct1Ik</yt:videoid></media:group><gd:rating average='4.6926265' max='5' min='1' numRaters='4828' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='868454'/><yt:rating numDislikes='371' numLikes='4457'/></entry>

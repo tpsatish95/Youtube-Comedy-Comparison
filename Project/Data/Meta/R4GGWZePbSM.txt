@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DEQCRn47eCp7I2A9XRRTEEQ.&quot;'><id>tag:youtube.com,2008:video:R4GGWZePbSM</id><published>2011-01-17T05:28:19.000Z</published><updated>2015-01-01T07:12:47.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Tijuana Jackson HBO Trailer</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/R4GGWZePbSM?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=R4GGWZePbSM&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/R4GGWZePbSM/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=R4GGWZePbSM'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/14AIyq_mGphI3gs8HMxXNA?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/R4GGWZePbSM?v=2'/><author><name>Tijuana Jackson</name><uri>https://gdata.youtube.com/feeds/api/users/TijuanaJackson</uri><yt:userId>14AIyq_mGphI3gs8HMxXNA</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/R4GGWZePbSM/comments?v=2' countHint='54'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/R4GGWZePbSM?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='77' yt:format='5'/><media:content url='rtsp://r7---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQkjbY-XWYaBRxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='77' yt:format='1'/><media:content url='rtsp://r7---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQkjbY-XWYaBRxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='77' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Tijuana Jackson'>tijuanajackson</media:credit><media:description type='plain'>ASK TJ QUESTIONS: http://TijuanaJackson.com
+WIN FREE T-SHIRTS: http://PrisonLogic.tv
+
+=-=-=-=-=-=-=-=-=-=-=
+GET FREE ADVICE:
+
+To have Motivational Speaker Tijuana Jackson answer your questions go to: http://TijuanaJackson.com/fans
+
+=-=-=-=-=-=-=-=-=-=-=
+FOLLOW A NIGGA:
+
+*TWITTER - http://twitter.com/TijuanaJackson
+*INSTAGRAM - http://instagram.com/TijuanaJackson
+
+=-=-=-=-=-=-=-=-=-=-=
+HOW TO WIN SHIT:
+
+*Post questions at: http://TijuanaJackson.com/fans 
+
+*Tweet quotes with #PrisonLogic: http://tijuanajackson.com/quotes/
+
+*Make memes with TJ images: http://tijuanajackson.com/fans/
+
+*Register at: http://PrisonLogic.tv to automatically enter your name in the "T-Shirt Lottery."
+
+=-=-=-=-=-=-=-=-=-=-=
+DOWNLOAD TJ'S MUSIC:  http://tijuanajackson.com/music/
+
+=-=-=-=-=-=-=-=-=-=-=
+BOOK TJ LIVE: http://tijuanajackson.com/contact/
+
+=-=-=-=-=-=-=-=-=-=-=
+CALL TJ: +1 (954) 378-9275
+
+=-=-=-=-=-=-=-=-=-=-=
+PRISON LOGIC: 
+
+A weekly show hosted by Tijuana Jackson ex convict turned motivational speaker. Prison Logic teachings stem from the ageless wisdom of  METAPHILOSCIENCE (15 Disciplines):  http://TijuanaJackson.com</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=R4GGWZePbSM&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/R4GGWZePbSM/default.jpg' height='90' width='120' time='00:00:38.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/R4GGWZePbSM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/R4GGWZePbSM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/R4GGWZePbSM/1.jpg' height='90' width='120' time='00:00:19.250' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/R4GGWZePbSM/2.jpg' height='90' width='120' time='00:00:38.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/R4GGWZePbSM/3.jpg' height='90' width='120' time='00:00:57.750' yt:name='end'/><media:title type='plain'>Tijuana Jackson HBO Trailer</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='77'/><yt:uploaded>2011-01-17T05:28:19.000Z</yt:uploaded><yt:uploaderId>UC14AIyq_mGphI3gs8HMxXNA</yt:uploaderId><yt:videoid>R4GGWZePbSM</yt:videoid></media:group><gd:rating average='4.9298244' max='5' min='1' numRaters='171' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='45123'/><yt:rating numDislikes='3' numLikes='168'/></entry>

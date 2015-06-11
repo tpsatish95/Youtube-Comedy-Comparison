@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CUMESH47eCp7I2A9XRRXFEU.&quot;'><id>tag:youtube.com,2008:video:Kr0Bbu4jL30</id><published>2008-11-21T21:12:01.000Z</published><updated>2015-02-21T01:50:09.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>1,000,000 SUBSCRIBERS (divided by 100) [feat. MacGyver]</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/Kr0Bbu4jL30?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=Kr0Bbu4jL30&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Kr0Bbu4jL30/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=Kr0Bbu4jL30'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/VJK2AT3ea5RTXNRjX_kz8A?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Kr0Bbu4jL30?v=2'/><author><name>Tobuscus</name><uri>https://gdata.youtube.com/feeds/api/users/Tobuscus</uri><yt:userId>VJK2AT3ea5RTXNRjX_kz8A</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/Kr0Bbu4jL30/comments?v=2' countHint='782'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/Kr0Bbu4jL30?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='48' yt:format='5'/><media:content url='rtsp://r8---sn-a5m7zu7s.c.youtube.com/CiILENy73wIaGQl9LyPubgG9KhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='48' yt:format='1'/><media:content url='rtsp://r8---sn-a5m7zu7s.c.youtube.com/CiILENy73wIaGQl9LyPubgG9KhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='48' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Tobuscus' yt:type='partner'>tobuscus</media:credit><media:description type='plain'>The Mp3! - 
+http://www.tobyturner.com/music/track/10ksubs
+Shirts! - http://www.districtlines.com/toby-turner
+
+THE LYRICS!
+
+I just reached the landmark 
+of 10,000 subscribers,
+I've no doubt that soon I'll 
+pull more tail than MacGyver.
+
+Hopefully the tail I pull 
+won't be from the same demographic.
+Richard Dean Anderson should make a YouTube, he would get some traffic.
+
+My grandma likes MacGyver,
+Your grandma likes MacGyver,
+His grandma likes MacGyver,
+Her grandma likes MacGyver.
+
+Wow this song just took a 
+wicked turn onto a tangent...
+
+My great-grandma likes MacGyver,
+Your great-grandma likes MacGyver,
+His great-grandma likes MacGyver,
+Her great-grandma liked MacGyver.
+
+YouTube is a video-sharing website on which users can upload, share, and view videos. Three former PayPal employees created YouTube in February 2005.[3]  In November 2006, YouTube, LLC was bought by Google Inc.  for $1.65 billion, and is now operated as a subsidiary of Google. The company is based in San Bruno, California, and uses Adobe Flash Video technology to display a wide variety of user-generated video content, including movie clips, TV clips, and music videos, as well as amateur content such as video blogging and short original videos. Most of the content on YouTube has been uploaded by individuals, although media corporations including CBS, BBC, VEVO and other organizations offer some of their material via the site, as part of the YouTube partnership program.[4]
+
+Unregistered users can watch the videos, while registered users are permitted to upload an unlimited number of videos. Videos that are considered to contain potentially offensive content are available only to registered users 18 and older.
+
+The subscription business model is a business model where a customer must pay a subscription price to have access to the product/service. The model was pioneered by magazines  and newspapers, but is now used by many businesses and websites.
+
+The first UK subscription newsletter was the London Property Letter launched in the early 1960's by Sylvester Stein, previously editor of South Africa's Drum magazine. The London Property Letter utilized the Standing Order payment, the subscriber signing up for a continuous annual payment from his or her bank account. Around the same time, The Consumer's Association launched Which? magazine using the same standing order techniques.
+
+In 1982 Running Magazine was launched by Sylvester Stein to cater for the new jogging and running craze that had arrived from the USA. The Standing Order subscription model was adapted for use on this and other consumer news trade magazines by Peter Hobday, appointed Publishing Director of Running magazine by Sylvester Stein in 1982. Peter Hobday increased the subscription sales of Running Magazine to become the highest circulation title the athletics field.
+
+Running magazine has since evolved into Runner's World.
+
+Rather than selling products individually, a subscription sells periodic (monthly or yearly or seasonal) use or access to a product or service, or, in the case of such non-profit organizations as opera companies or symphony orchestras, it sells tickets to the entire run of five to fifteen scheduled performances for an entire season.
+
+Thus, a one-time sale of a product can become a recurring sale and can build brand loyalty. It is used for anything where a user is tracked in both a subscribed, and an unsubscribed status. Membership fees to some types of organizations, such as trade unions, are also known as subscriptions.
+
+Industries that use this model include book clubs, record clubs, telephone companies, cable television providers, cell phone companies, internet providers, pay-TV channels, software providers, business solutions providers, financial services firms, fitness clubs, and pharmaceuticals, as well as the traditional newspapers and magazines.
+
+Renewal of a subscription may be periodic and activated automatically, so that the cost of a new period is automatically paid for by a pre-authorized charge to a credit card or a checking account.
+
+A common model on web sites, colloquially becoming known as the freemium model, is to provide content for free, but restrict access to premium features (for example, archives) to paying subscribers. In this case, the subscriber-only content is said to be behind a paywall. The razor and blades business model (also called the bait and hook model) is an attempt to approximate the subscription model, but with a formal agreement by both parties.
+
+© 2008 Tobuscus</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=Kr0Bbu4jL30&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/Kr0Bbu4jL30/default.jpg' height='90' width='120' time='00:00:24' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/Kr0Bbu4jL30/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Kr0Bbu4jL30/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Kr0Bbu4jL30/1.jpg' height='90' width='120' time='00:00:12' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/Kr0Bbu4jL30/2.jpg' height='90' width='120' time='00:00:24' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/Kr0Bbu4jL30/3.jpg' height='90' width='120' time='00:00:36' yt:name='end'/><media:title type='plain'>1,000,000 SUBSCRIBERS (divided by 100) [feat. MacGyver]</media:title><yt:duration seconds='48'/><yt:uploaded>2008-11-21T21:12:01.000Z</yt:uploaded><yt:uploaderId>UCVJK2AT3ea5RTXNRjX_kz8A</yt:uploaderId><yt:videoid>Kr0Bbu4jL30</yt:videoid></media:group><gd:rating average='4.946164' max='5' min='1' numRaters='3715' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='230935'/><yt:rating numDislikes='50' numLikes='3665'/></entry>

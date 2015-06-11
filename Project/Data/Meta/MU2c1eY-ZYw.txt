@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CE4NQn47eCp7I2A9XRRRFUQ.&quot;'><id>tag:youtube.com,2008:video:MU2c1eY-ZYw</id><published>2011-11-02T00:48:31.000Z</published><updated>2015-01-30T04:43:13.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Man-Shriek: Clown Mask Scare</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/MU2c1eY-ZYw?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=MU2c1eY-ZYw&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/MU2c1eY-ZYw/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=MU2c1eY-ZYw'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/lmmbesFjIzJAp8NQCtt8dQ?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/MU2c1eY-ZYw?v=2'/><author><name>Break</name><uri>https://gdata.youtube.com/feeds/api/users/break</uri><yt:userId>lmmbesFjIzJAp8NQCtt8dQ</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/MU2c1eY-ZYw/comments?v=2' countHint='179'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/MU2c1eY-ZYw?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='47' yt:format='5'/><media:content url='rtsp://r7---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQmMZT7m1ZxNMRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='47' yt:format='1'/><media:content url='rtsp://r7---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQmMZT7m1ZxNMRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='47' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Break' yt:type='partner'>break</media:credit><media:description type='plain'>Halloween may have come and gone, but this is a trick that will never get old.
+
+
+Like to stomp Zombies on the go? Check out new game Zombie Parkour Runner : http://brk.to/toZombieParkourGameplay
+
+Or get the app directly:
+
+iPhone - http://brk.to/ZPRgame 
+
+iPad - http://brk.to/ZPRiPad
+
+For the funniest videos breaking online, visit Break.com - http://brk.to/tobreak
+
+More Break approved videos:
+
+Break Originals - http://brk.to/tobreakoriginals
+
+MadeMan.com - http://brk.to/tomademanvideos
+
+GameFront - http://brk.to/toGameFront
+
+Break gets social:
+
+Facebook - http://brk.to/tobreakfacebook
+
+Twitter - http://brk.to/tobreakcomtwitter
+
+
+Break goes mobile:
+
+iPhone / iPad free app - http://brk.to/tobreakappleapp
+
+Android free app - http://brk.to/tobreakandroidapp For licensing inquiries please email us at licensing@break.com</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=MU2c1eY-ZYw&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/MU2c1eY-ZYw/default.jpg' height='90' width='120' time='00:00:23.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/MU2c1eY-ZYw/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/MU2c1eY-ZYw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/MU2c1eY-ZYw/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/MU2c1eY-ZYw/1.jpg' height='90' width='120' time='00:00:11.750' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/MU2c1eY-ZYw/2.jpg' height='90' width='120' time='00:00:23.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/MU2c1eY-ZYw/3.jpg' height='90' width='120' time='00:00:35.250' yt:name='end'/><media:title type='plain'>Man-Shriek: Clown Mask Scare</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='47'/><yt:uploaded>2011-11-02T00:48:31.000Z</yt:uploaded><yt:uploaderId>UClmmbesFjIzJAp8NQCtt8dQ</yt:uploaderId><yt:videoid>MU2c1eY-ZYw</yt:videoid></media:group><gd:rating average='4.8011255' max='5' min='1' numRaters='1066' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='108132'/><yt:rating numDislikes='53' numLikes='1013'/></entry>

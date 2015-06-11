@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;AkUNR347eCp7I2A9XRdXGUs.&quot;'><id>tag:youtube.com,2008:video:Y_NuKpXgJVQ</id><published>2011-10-31T01:29:47.000Z</published><updated>2014-11-02T22:44:56.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title>'You Bully Me Today, Ill Boss You Tomorrow" EVERY DAY AN EASY A www.everydayaneasya.com</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/Y_NuKpXgJVQ?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=Y_NuKpXgJVQ&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Y_NuKpXgJVQ/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=Y_NuKpXgJVQ'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/lAvstAftFVZ2z8zyViVVNg?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Y_NuKpXgJVQ?v=2'/><author><name>PHOTONSUPERHERO</name><uri>https://gdata.youtube.com/feeds/api/users/PHOTONSUPERHERO</uri><yt:userId>lAvstAftFVZ2z8zyViVVNg</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/Y_NuKpXgJVQ/comments?v=2' countHint='3'/></gd:comments><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/Y_NuKpXgJVQ?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='51' yt:format='5'/><media:content url='rtsp://r5---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQlUJeCVKm7zYxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='51' yt:format='1'/><media:content url='rtsp://r5---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQlUJeCVKm7zYxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='51' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='PHOTONSUPERHERO'>photonsuperhero</media:credit><media:description type='plain'>http://www.everydayaneasya.com or http://www.booksnotbombs.com 
+http://www.treeofknowledgepress.com 
+BEST BUY: ALL GLOBAL BOOKSTORES
+
+Featuring...
+
+EVERY DAY AN EASY A: WE ARE THE POWER
+The New Learning Technology Empowers Students for Academic Success in School and Professional Success in the Workplace
+
+EVERY DAY AN EASY A   Elementary
+‪http://search.barnesandnoble.com/books/product.aspx?ean=9781885872944‬
+
+EVERY DAY AN EASY A  High School
+http://search.barnesandnoble.com/Every-Day-an-Easy-A/Tree-of-Knowledge-Press-...
+
+EVERY DAY AN EASY A  College
+http://search.barnesandnoble.com/EVERY-DAY-AN-EASY-A/Tree-of-Tree-of-Knowledg...
+
+
+Featuring...
+
+TOTAL RECALL: ACE EVERY TEST EVERY TIME Elementary
+http://www.barnesandnoble.com/w/total-recall-tree-of-knowledge-press-we-educa...
+
+TOTAL RECALL: ACE EVERY TEST EVERY TIME High School
+http://search.barnesandnoble.com/Total-Recall/Tree-of-Knowledge-Press-We-Educ...
+
+TOTAL RECALL: ACE EVERY TEST EVERY TIME College
+http://www.barnesandnoble.com/w/total-recall-tree-of-knowledge-press-we-educa...
+
+
+Featuring...
+
+YOUR STUDY ROOM IS UNDER NEW MANAGEMENT
+http://search.barnesandnoble.com/Your-Study-Room-Is-under-NEW-Management/Tree...
+
+
+ALL GLOBAL BOOKSTORES ‪http://www.everydayaneasya.com‬
+
+
+Featuring...
+SMARTGRADES SCHOOL NOTEBOOKS
+GOOD GRADES BECOME GRAND DREAMS
+
+
+#1  Smartgrades Academic Planner
+More Than 1000 Learning Tools for Academic Success
+http://search.barnesandnoble.com/books/product.aspx?ean=9781885872784
+
+How to Do More Homework in Less Time
+http://search.barnesandnoble.com/SMARTGRADES/The-Great-American-Notebook-Comp...
+
+How to Ace Every Test Every Time
+http://search.barnesandnoble.com/SMARTGRADES/The-Great-American-Notebook-Comp...
+
+How to Memorize Voluminous Facts for Total Recall
+http://www.barnesandnoble.com/w/smartgrades-school-notebooks-with-acandy-lear...
+
+How to Write a Grade A Research Paper
+http://search.barnesandnoble.com/SMARTGRADES/The-Great-American-Notebook-Comp...
+
+Textbook Test Review Notes
+http://search.barnesandnoble.com/SMARTGRADES-Notebook-for-Textbook-Test-Revie...
+
+
+
+Featuring...
+
+EVERY DAY AN EASY A Notebook
+http://search.barnesandnoble.com/EVERY-DAY-an-EASY-A-School-Notebooks/The-Gre...
+
+
+Featuring...
+
+Golden Apple School Notebooks
+http://search.barnesandnoble.com/Golden-Apple-School-Notebooks/The-Great-Amer...
+
+ALL GLOBAL BOOKSTORES: http://www.smartgrades.com
+
+
+Featuring... Children's Bookworm Award
+SCHMALTZY: The Cat Who Teaches Children How to Learn, Love, and Laugh
+http://www.barnesandnoble.com/w/schmaltzy-sharon-esther-lampert/1018711773?ea...
+
+
+
+Join Us &amp; Join the Party: The Nerd &amp; Bully Peanut Butter &amp; Jelly Club on Facebook
+http://www.facebook.com/pages/Join-Us-The-Nerd-Bully-Peanut-Butter-Jelly-Club...
+
+The Nerd &amp; Bully Peanut Butter &amp; Jelly Club
+VOTE: Cast your vote "Like" on Facebook.
+Q: Who is your favorite nerd?
+Q: Who is your favorite bully?
+Q: Which "Peanut Butter Smackdown" is the funniest?
+Q: Did you earn an A grade thanks to EVERY DAY AN EASY A?
+Q: Did your dream come true because of EVERY DAY AN EASY A?
+
+
+About Photon Superhero of Education:
+
+PHOTON SUPERHERO OF EDUCATION Website
+‪http://www.BooksNotBombs.com‬
+WORLD PEACE IS COMING TO PLANET EARTH
+
+PHOTON SUPERHERO OF EDUCATION on Facebook
+‪http://www.facebook.com/pages/Photon-Superhero-of-Education-Everybody-Is-Some..­.‬
+
+PHOTON SUPERHERO OF EDUCATION on Twitter
+‪http://twitter.com/#!/PHOTONSUPERHERO‬
+
+PHOTON SUPERHERO OF EDUCATION's Purple and Yellow Bracelet
+"EVERYBODY IS SOMEBODY SPECIAL"
+‪http://www.everybodyissomebodyspecial.com‬</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=Y_NuKpXgJVQ&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/Y_NuKpXgJVQ/default.jpg' height='90' width='120' time='00:00:25.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/Y_NuKpXgJVQ/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Y_NuKpXgJVQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Y_NuKpXgJVQ/1.jpg' height='90' width='120' time='00:00:12.750' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/Y_NuKpXgJVQ/2.jpg' height='90' width='120' time='00:00:25.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/Y_NuKpXgJVQ/3.jpg' height='90' width='120' time='00:00:38.250' yt:name='end'/><media:title type='plain'>'You Bully Me Today, Ill Boss You Tomorrow" EVERY DAY AN EASY A www.everydayaneasya.com</media:title><yt:duration seconds='51'/><yt:uploaded>2011-10-31T01:29:47.000Z</yt:uploaded><yt:uploaderId>UClAvstAftFVZ2z8zyViVVNg</yt:uploaderId><yt:videoid>Y_NuKpXgJVQ</yt:videoid></media:group><gd:rating average='1.0' max='5' min='1' numRaters='9' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='627'/><yt:rating numDislikes='9' numLikes='0'/></entry>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:georss='http://www.georss.org/georss' xmlns:gml='http://www.opengis.net/gml' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;C0UBRn47eCp7I2A9XRdbGEg.&quot;'><id>tag:youtube.com,2008:video:9SewnSSudJg</id><published>2011-10-30T03:05:29.000Z</published><updated>2014-12-17T21:20:57.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Crazy dirtbike crash caught on go-pro</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/9SewnSSudJg?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=9SewnSSudJg&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/9SewnSSudJg/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=9SewnSSudJg'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/_mkVhXrb2xZa0qpeLuvGow?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/9SewnSSudJg?v=2'/><author><name>Jeremy Merryman</name><uri>https://gdata.youtube.com/feeds/api/users/yamahafan817</uri><yt:userId>_mkVhXrb2xZa0qpeLuvGow</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/9SewnSSudJg/comments?v=2' countHint='20'/></gd:comments><georss:where><gml:Point><gml:pos>42.293564 -90.0</gml:pos></gml:Point></georss:where><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/9SewnSSudJg?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='47' yt:format='5'/><media:content url='rtsp://r8---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQmYdK4knbAn9RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='47' yt:format='1'/><media:content url='rtsp://r8---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQmYdK4knbAn9RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='47' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Jeremy Merryman'>yamahafan817</media:credit><media:description type='plain'>*watch in Slo-Mo
+My friend David crashing our yamaha ttr 110 pitbike. IT WAS HIS FIRST TIME RIDING.. he cased a (with his front wheel)  double and i got it on my go-pro. 
+
+ignore tags:
+SICK PIT BIKE Race
+SICK PIT BIKE RIDING! GNARLY WHIPS KLX 110 DRZ 110 TTR 110 CRF 50 bbr 110 CRF 100 Pitster Pro 2011 2012 yzf yfz 450 250 250f
+
+suzuki drz 110
+kawasaki klx 110 l
+yamaha ttr 110
+renthal
+wheelie
+heel clicker
+indian air
+backflip
+back flip
+front flip
+frontflip
+pro taper
+Tag
+bars
+two brothers racing
+fmf
+power core four 4
+dr d
+joker
+chp
+exhaust
+pitster pro
+ssr
+orion pitbike sales
+scrub
+whip
+huge jumps
+bbr
+sikk 110s
+fast 50s
+arena cross
+wheelie
+fast
+ryan dungey
+james stewart
+ryan villopoto
+chad reed
+jimmy taylor
+kyle swanson
+chris plouffe
+ricky carmichael
+bubba
+jesse andrews
+Justin Bogle
+jessy nelson
+jesse wentland
+brad frace
+justin hill
+kyle peters
+austin burns
+bryce stewart
+mccoy oldenburg
+blake lilly
+cooper webb
+dakota alix
+nick gaines
+daniel baker
+andrew silverstein
+jason anderson
+austin howell
+gavin faith
+bogen cochran
+chad crawford
+tyler bereman
+dylan cox
+Jake Pinhancos
+joey crown
+luke purther
+alexah pearson
+erika cook
+kristen raemisch
+backflip
+RDS
+Ricardo
+Roketa
+SDG
+Sikk MX
+Thumpstar
+Virtual Bikez
+Xtreme
+honda crf 50
+xr 50
+50
+60
+65
+70
+80
+85
+88
+90
+100
+110
+150
+125
+250
+450
+badass
+twixtor slow motion
+tyler summers 414 
+yamahafan817
+jeremy merryman
+trent meyer
+tmyamaha714
+MOTOCROSS YZ 250F GNAR PRODUCTIONS KLX 110 WHIP FAST Born: Dec. 4, 1989. Single: Ryan Dungey lives at home with his family in his hometown of Belle Plaine, Minn. He splits his time between Minnesota, Southern California and Florida, where he rides &amp; trains with fellow Fox athletes Ricky Carmichael and Ivan Tedesco. Ryan is in his third year with the Rockstar Makita Suzuki Factory team James recently did a shoot for the 2010 Answer Racing catalog shoot at his riding compound in Haines City, Florida and we were there to capture all the action. Sun up to sun down, James twisted throttle like a mad man and produced some killer video. Who else does this stuff in their backyard? Nobody. A clip of Ryan Villopoto on the mighty BBR klx 110 !!! Ryan Villopoto On BBR's Klx 110 Jeremy McGrath BBR CRF50 / KLX110 BBR vs Sano 2005 jump over pickup SICK! pro50s.com minibike pitbike crf 5</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=9SewnSSudJg&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/9SewnSSudJg/default.jpg' height='90' width='120' time='00:00:23.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/9SewnSSudJg/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/9SewnSSudJg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/9SewnSSudJg/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/9SewnSSudJg/1.jpg' height='90' width='120' time='00:00:11.750' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/9SewnSSudJg/2.jpg' height='90' width='120' time='00:00:23.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/9SewnSSudJg/3.jpg' height='90' width='120' time='00:00:35.250' yt:name='end'/><media:title type='plain'>Crazy dirtbike crash caught on go-pro</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='47'/><yt:uploaded>2011-10-30T03:05:29.000Z</yt:uploaded><yt:uploaderId>UC_mkVhXrb2xZa0qpeLuvGow</yt:uploaderId><yt:videoid>9SewnSSudJg</yt:videoid></media:group><gd:rating average='4.5789475' max='5' min='1' numRaters='19' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='4838'/><yt:rating numDislikes='2' numLikes='17'/></entry>

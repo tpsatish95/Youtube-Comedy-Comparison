@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;C0cGQH47eCp7I2A9XRRRGUg.&quot;'><id>tag:youtube.com,2008:video:KpkPpMqANl4</id><published>2010-12-04T23:39:41.000Z</published><updated>2015-02-03T08:10:21.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Funny Pranks - SMP Films</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/KpkPpMqANl4?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=KpkPpMqANl4&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/KpkPpMqANl4/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=KpkPpMqANl4'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/Lat8CECTXsvUTsclmDdFGw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/KpkPpMqANl4?v=2'/><author><name>SMPFilms</name><uri>https://gdata.youtube.com/feeds/api/users/smpfilms</uri><yt:userId>Lat8CECTXsvUTsclmDdFGw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/KpkPpMqANl4/comments?v=2' countHint='4638'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/KpkPpMqANl4?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='206' yt:format='5'/><media:content url='rtsp://r1---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQleNoDKpA-ZKhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='206' yt:format='1'/><media:content url='rtsp://r1---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQleNoDKpA-ZKhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='206' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='SMPFilms' yt:type='partner'>smpfilms</media:credit><media:description type='plain'>These are just a few funny pranks I filmed with my phone.
+
+MY VICTIMS:
+
+Jesse from Prank VS Prank (win fail prank)
+http://www.YouTube.com/PrankVSPrank
+
+Ryan from ForSkitsAndGiggles (blood face prank)
+http://www.YouTube.com/ForSkitsAndGiggles
+
+Ed from SuperEd86 (Take The Crayon Prank)
+http://www.YouTube.com/SuperEd86
+
+Sid from Sidneyraz (9 Volt Prank)
+http://www.YouTube.com/Sidneyraz
+
+Peter from Pyrobooby (Take The Crayon Prank)
+http://www.YouTube.com/pyrobooby
+
+MY PRANK ACCOMPLICES:
+
+Kate from Katers17 (Win Fail Prank)
+http://www.YouTube.com/Katers17
+
+Charles from CTFxC (Take The Crayon)
+http://www.YouTube.com/CTFxC
+
+Ryan from Cyr1216 (Win Fail Prank)
+http://www.YouTube.com/Cyr1216</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=KpkPpMqANl4&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/KpkPpMqANl4/default.jpg' height='90' width='120' time='00:01:43' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/KpkPpMqANl4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/KpkPpMqANl4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/KpkPpMqANl4/1.jpg' height='90' width='120' time='00:00:51.500' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/KpkPpMqANl4/2.jpg' height='90' width='120' time='00:01:43' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/KpkPpMqANl4/3.jpg' height='90' width='120' time='00:02:34.500' yt:name='end'/><media:title type='plain'>Funny Pranks - SMP Films</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='206'/><yt:uploaded>2010-12-04T23:39:41.000Z</yt:uploaded><yt:uploaderId>UCLat8CECTXsvUTsclmDdFGw</yt:uploaderId><yt:videoid>KpkPpMqANl4</yt:videoid></media:group><gd:rating average='4.826128' max='5' min='1' numRaters='4256' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='358433'/><yt:rating numDislikes='185' numLikes='4071'/></entry>

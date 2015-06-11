@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DEYMSH47eCp7I2A9XRRXFU8.&quot;'><id>tag:youtube.com,2008:video:VBZVO0FZWac</id><published>2011-09-24T12:23:56.000Z</published><updated>2015-02-21T13:43:09.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Hamster dreaming</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/VBZVO0FZWac?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=VBZVO0FZWac&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/VBZVO0FZWac/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=VBZVO0FZWac'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/ZLxSdw-GXigmHFvLOLvIBg?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/VBZVO0FZWac?v=2'/><author><name>Maria Kasa</name><uri>https://gdata.youtube.com/feeds/api/users/KisaNetwork</uri><yt:userId>ZLxSdw-GXigmHFvLOLvIBg</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/VBZVO0FZWac/comments?v=2' countHint='16'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/VBZVO0FZWac?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='40' yt:format='5'/><media:content url='rtsp://r3---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQmnWVlBO1UWVBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='40' yt:format='1'/><media:content url='rtsp://r3---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQmnWVlBO1UWVBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='40' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Maria Kasa'>kisanetwork</media:credit><media:description type='plain'>http://www.fatkisa.com/ Youtube Funny Videos
+
+
+
+
+/hamster dance
+hamster
+hamster dance song
+hamster song
+dramatic hamster
+the hamster dance
+crazy frog
+gummy bear song
+hamster fight
+funny cats
+the hamster song
+kia hamster commercial
+hampster dance
+harry the hamster
+hamsters
+turbo hamster
+hamster time
+fred
+hamster car commercial
+dwarf hamster
+funny hamster
+gummy bear
+hamster wheel
+evil hamster
+dramatic chipmunk
+numa numa
+funny
+hamster commercial
+hamster dance original
+charlie the unicorn
+dancing hamster
+funny hamsters
+guinea pig
+cotton eye joe
+crazy hamster
+hampton the hamster
+kia commercial hamster
+sneezing panda
+funny video
+hamster piano
+chocolate rain
+hamster on piano
+funny hamster videos
+family guy
+hamster dance lyrics
+funny hamster dance
+hampster
+funny dogs
+naruto hamster dance
+ninja cat
+cats
+soulja boy
+robo hamster
+cute hamster
+crazy frog song
+talking cats
+baby hamster
+akamaru hamster dance
+michael jackson
+hamster dance remix
+llama song
+teddy bear hamster
+cha cha slide
+hamster giving birth
+hamster cage
+dramatic lemur
+happy tree friends
+parry gripp
+annoying orange
+laughing baby
+hamster stare
+muffins
+hamster look
+charlie bit me
+taylor swift
+kia hamster
+party rock anthem
+fat hamster
+my hamster
+hamster ball
+original hamster dance
+evolution of dance
+funny stuff
+crazy hamster dance
+gerbil
+surprised hamster
+nigahiga
+hamsterdance
+mean kitty song
+zhu zhu hamster
+bolt hamster
+panda sneeze
+hamster commercial kia
+naruto
+hammy the hamster
+nom nom nom
+hamster eating
+hamster eating broccoli
+hamster in microwave</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=VBZVO0FZWac&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/VBZVO0FZWac/default.jpg' height='90' width='120' time='00:00:20' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/VBZVO0FZWac/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/VBZVO0FZWac/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/VBZVO0FZWac/1.jpg' height='90' width='120' time='00:00:10' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/VBZVO0FZWac/2.jpg' height='90' width='120' time='00:00:20' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/VBZVO0FZWac/3.jpg' height='90' width='120' time='00:00:30' yt:name='end'/><media:title type='plain'>Hamster dreaming</media:title><yt:duration seconds='40'/><yt:uploaded>2011-09-24T12:23:56.000Z</yt:uploaded><yt:uploaderId>UCZLxSdw-GXigmHFvLOLvIBg</yt:uploaderId><yt:videoid>VBZVO0FZWac</yt:videoid></media:group><gd:rating average='4.6296296' max='5' min='1' numRaters='54' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='12054'/><yt:rating numDislikes='5' numLikes='49'/></entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DkEASH47eCp7I2A9XRRXFUw.&quot;'><id>tag:youtube.com,2008:video:FYssmV5rjqM</id><published>2009-11-26T17:34:33.000Z</published><updated>2015-02-21T10:30:49.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>LADY GAGA IN MY POOL?</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/FYssmV5rjqM?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=FYssmV5rjqM&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/FYssmV5rjqM/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=FYssmV5rjqM'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/N9wHzrHRdKVzCSeV-5RuzA?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/FYssmV5rjqM?v=2'/><author><name>Shane Dawson TV</name><uri>https://gdata.youtube.com/feeds/api/users/ShaneDawsonTV</uri><yt:userId>N9wHzrHRdKVzCSeV-5RuzA</yt:userId></author><yt:accessControl action='comment' permission='denied'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='denied'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/FYssmV5rjqM?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='30' yt:format='5'/><media:content url='rtsp://r5---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQmjjmtemSyLFRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='30' yt:format='1'/><media:content url='rtsp://r5---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQmjjmtemSyLFRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='30' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Shane Dawson TV' yt:type='partner'>shanedawsontv</media:credit><media:description type='plain'>VID UP NOW!! CHECK IT OUT HERE! http://www.youtube.com/watch?v=XrAuEZwqR0o 
+
+brittani
+http://www.youtube.com/brittanilouisetaylor
+http://www.youtube.com/brittani
+
+Joe
+http://www.youtube.com/joenationtv
+
+MUSIC
+hadouken "something bad"
+http://www.myspace.com/hadouken
+
+klassicmaster "bad romance"
+http://www.youtube.com/klassicmaster
+
+MY LINKS
+twitter
+http://www.twitter.com/shanedawson
+facebook
+http://www.facebook.com/shanedawsonfans
+myspace
+http://www.myspace.com/shaneyaw
+
+*Send letters to:
+3727 W. Magnolia Blvd #712 
+Burbank, CA 91505
+
+*Branding, Media, &amp; General Business Inquiries: 
+The Collective
+ShaneDawsonTVBiz@gmail.com
+
+*Film &amp; Television Agent:
+William Morris Endeavor
+(310) 285-9000</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=FYssmV5rjqM&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/FYssmV5rjqM/default.jpg' height='90' width='120' time='00:00:15' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/FYssmV5rjqM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/FYssmV5rjqM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/FYssmV5rjqM/1.jpg' height='90' width='120' time='00:00:07.500' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/FYssmV5rjqM/2.jpg' height='90' width='120' time='00:00:15' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/FYssmV5rjqM/3.jpg' height='90' width='120' time='00:00:22.500' yt:name='end'/><media:title type='plain'>LADY GAGA IN MY POOL?</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='30'/><yt:uploaded>2009-11-26T17:34:33.000Z</yt:uploaded><yt:uploaderId>UCN9wHzrHRdKVzCSeV-5RuzA</yt:uploaderId><yt:videoid>FYssmV5rjqM</yt:videoid></media:group><yt:statistics favoriteCount='0' viewCount='2695378'/></entry>

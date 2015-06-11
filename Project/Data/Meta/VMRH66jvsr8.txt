@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:app='http://www.w3.org/2007/app' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;C0UFQH47eCp7I2A9XRRQFk8.&quot;'><id>tag:youtube.com,2008:video:VMRH66jvsr8</id><published>2011-01-28T21:44:35.000Z</published><updated>2015-02-11T02:20:11.000Z</updated><app:control><yt:state name='restricted' reasonCode='limitedSyndication'>Syndication of this video was restricted.</yt:state></app:control><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Andrew/Jesse | The one I've waited for</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/VMRH66jvsr8?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=VMRH66jvsr8&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/VMRH66jvsr8/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/nmPeu_TJg1ABJ2lFa_YqSw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/VMRH66jvsr8?v=2'/><author><name>GraphicbyDesign</name><uri>https://gdata.youtube.com/feeds/api/users/GraphicbyDesign</uri><yt:userId>nmPeu_TJg1ABJ2lFa_YqSw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='denied'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/VMRH66jvsr8/comments?v=2' countHint='203'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/VMRH66jvsr8?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='48' yt:format='5'/><media:credit role='uploader' scheme='urn:youtube' yt:display='GraphicbyDesign'>graphicbydesign</media:credit><media:description type='plain'>Tumblr: http://graphicbydesign.tumblr.com/
+
+
+Thankyou everyone, I never thought I'd have a video gain so much popularity. I'm glad it is in such a lovely fandom!  You guys are PAINFULLY SEXY.... and as far as the marriage proposals on tumblr... lets do it!! ♥ 
+
+So this is just a bit of fun with interviews.  Its crazy how much you miss vidding when you really can't. So I whipped this up because  I just started fangirling their relationship and they remind me of an eharmony commercial like woah lol
+
+Wow, I've crossed 1000 subs. I am so grateful and humbled that so many people bothered to sub my madness!!
+
+Finally ALOT of my friends have been deleted. If you like me enough to read this you will love them. So please help 
+them re-build.
+
+MissyourMaturity (she wasn't deleted but she is 2 away from 500!! Make it happen guys)
+
+http://www.youtube.com/user/MissYourMaturity
+
+And please re-sub these SEXY people:
+
+http://www.youtube.com/user/WillowMaraTweee
+http://www.youtube.com/user/thepippinflippin
+http://www.youtube.com/user/heykaramore
+http://www.youtube.com/user/Cynth19Production
+
+
+I dedicate this to Michelle (OasisWonder19) and Bonnie 
+(MissYourMaturity)... the two biggest Andy/Jesse fans I know.
+
+Also to catou121 for helping me to see how beautiful their 
+bromance truly is with her GORGEOUS vid.
+
+http://www.youtube.com/watch?v=DT3QvLwFPEc
+
+
+Honors:
+#29 - Top Favorited (Today)) - Comedy
+#100 - Top Rated (Today)) - Comedy
+#23 - Top Favorited (Today)) - Comedy
+#98 - Top Rated (Today)) - Comedy
+#21 - Top Favorited (Today)) - Comedy
+#86 - Top Rated (Today)) - Comedy
+#189 - Most Viewed (Today)) - Comedy - Canada
+#105 - Top Favorited (Today))
+#16 - Top Favorited (Today)) - Comedy
+#69 - Top Rated (Today)) - Comedy
+#188 - Most Viewed (Today)) - Comedy - Canada
+#104 - Top Favorited (Today))
+#14 - Top Favorited (Today)) - Comedy
+#66 - Top Rated (Today)) - Comedy
+#97 - Top Favorited (Today))
+#13 - Top Favorited (Today)) - Comedy
+#60 - Top Rated (Today)) - Comedy
+#130 - Most Viewed (Today)) - Comedy
+#150 - Most Viewed (Today)) - Comedy - Argentina
+#143 - Most Viewed (Today)) - Comedy - South Korea
+#196 - Most Viewed (Today)) - Comedy - Brazil
+#94 - Top Favorited (Today))
+#12 - Top Favorited (Today)) - Comedy
+#55 - Top Rated (Today)) - Comedy
+#84 - Top Favorited (Today))
+#10 - Top Favorited (Today)) - Comedy
+#52 - Top Rated (Today)) - Comedy
+#68 - Most Viewed (Today)) - Comedy - Australia
+#103 - Most Viewed (Today)) - Comedy - Canada
+#195 - Most Viewed (Today)) - Comedy - Ireland
+#119 - Most Viewed (Today)) - Comedy - India
+#119 - Most Viewed (Today)) - Comedy - New Zealand
+#130 - Most Viewed (Today)) - Comedy
+#148 - Most Viewed (Today)) - Comedy - Argentina
+#141 - Most Viewed (Today)) - Comedy - South Korea
+#195 - Most Viewed (Today)) - Comedy - Brazil
+#84 - Top Favorited (Today))
+#11 - Top Favorited (Today)) - Comedy
+#54 - Top Rated (Today)) - Comedy
+
+Sunday January 30th
+
+#95 - Most Discussed (Today)) - Comedy
+#46 - Most Viewed (Today)) - Comedy - Australia
+#65 - Most Viewed (Today)) - Comedy - Canada
+#108 - Most Viewed (Today)) - Comedy - United Kingdom
+#137 - Most Viewed (Today)) - Comedy - Ireland
+#106 - Most Viewed (Today)) - Comedy - India
+#74 - Most Viewed (Today)) - Comedy - New Zealand
+#94 - Most Viewed (Today)) - Comedy
+#191 - Most Viewed (Today)) - Comedy - South Africa
+#108 - Most Viewed (Today)) - Comedy - Argentina
+#176 - Most Viewed (Today)) - Comedy - Spain
+#174 - Most Viewed (Today)) - Comedy - France
+#120 - Most Viewed (Today)) - Comedy - South Korea
+#184 - Most Viewed (Today)) - Comedy - Netherlands
+#102 - Most Viewed (Today)) - Comedy - Brazil
+#123 - Most Viewed (Today)) - Comedy - Hong Kong
+#166 - Most Viewed (Today)) - Comedy - Czech Republic
+#172 - Most Viewed (Today)) - Comedy - Sweden
+#73 - Top Favorited (Today))
+#8 - Top Favorited (Today)) - Comedy
+#49 - Top Rated (Today)) - Comedy
+
+Monday January 31st (All over the world...wow)
+
+#158 - Most Viewed (Today)) - Comedy - Germany
+#45 - Most Viewed (Today)) - Comedy - Australia
+#50 - Most Viewed (Today)) - Comedy - Canada
+#68 - Most Viewed (Today)) - Comedy - United Kingdom
+#95 - Most Viewed (Today)) - Comedy - Ireland
+#80 - Most Viewed (Today)) - Comedy - India
+#70 - Most Viewed (Today)) - Comedy - New Zealand
+#196 - Most Viewed (Today)) - Comedy - Israel
+#68 - Most Viewed (Today)) - Comedy
+#89 - Most Viewed (Today)) - Comedy - Spain
+#185 - Most Viewed (Today)) - Comedy - Mexico
+#194 - Most Viewed (Today)) - Comedy - Italy
+#150 - Most Viewed (Today)) - Comedy - Netherlands
+#168 - Most Viewed (Today)) - Comedy - Poland
+#159 - Most Viewed (Today)) - Comedy - Taiwan
+
+Saturday February 5th
+
+#147 - Most Viewed (This Week)) - Comedy - Australia
+#147 - Most Viewed (This Week)) - Comedy - Canada
+#37 - Top Favorited (This Week)) - Comedy</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=VMRH66jvsr8&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/VMRH66jvsr8/default.jpg' height='90' width='120' time='00:00:24' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/VMRH66jvsr8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/VMRH66jvsr8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/VMRH66jvsr8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/VMRH66jvsr8/1.jpg' height='90' width='120' time='00:00:12' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/VMRH66jvsr8/2.jpg' height='90' width='120' time='00:00:24' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/VMRH66jvsr8/3.jpg' height='90' width='120' time='00:00:36' yt:name='end'/><media:title type='plain'>Andrew/Jesse | The one I've waited for</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='48'/><yt:uploaded>2011-01-28T21:44:35.000Z</yt:uploaded><yt:uploaderId>UCnmPeu_TJg1ABJ2lFa_YqSw</yt:uploaderId><yt:videoid>VMRH66jvsr8</yt:videoid></media:group><gd:rating average='4.9685264' max='5' min='1' numRaters='1398' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='62439'/><yt:rating numDislikes='11' numLikes='1387'/></entry>

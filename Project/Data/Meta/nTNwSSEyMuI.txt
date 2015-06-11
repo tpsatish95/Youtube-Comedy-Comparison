@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;D0UCR347eCp7I2A9XRRWEEs.&quot;'><id>tag:youtube.com,2008:video:nTNwSSEyMuI</id><published>2011-09-30T14:01:49.000Z</published><updated>2015-02-27T19:27:46.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Mambooed</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/nTNwSSEyMuI?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=nTNwSSEyMuI&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/nTNwSSEyMuI/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=nTNwSSEyMuI'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/M68odmb-EyopYkuaJO77Dw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/nTNwSSEyMuI?v=2'/><author><name>TheMambooTV</name><uri>https://gdata.youtube.com/feeds/api/users/TheMambooTV</uri><yt:userId>M68odmb-EyopYkuaJO77Dw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/nTNwSSEyMuI/comments?v=2' countHint='1'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/nTNwSSEyMuI?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='57' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu7e.c.youtube.com/CiILENy73wIaGQniMjIhSXAznRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='57' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu7e.c.youtube.com/CiILENy73wIaGQniMjIhSXAznRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='57' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='TheMambooTV'>themambootv</media:credit><media:description type='plain'>Get Mambooed!
+
+* * Please not that if there are any publicity problems with any one appearing in these short clips please notify mamboo at once on support@mamboo.com!
+
+activism, advertising, alcohol, alternative-news, ancient-history, animals, animation, anime, architecture, arts, 
+
+astronomy, atheist, bizarre, blogs, books, buddhism, business, cars, cartoons, cats, celebrities, christianity, 
+
+classic-rock, clothing, comedy-movies, comics, computer-graphics, computer-hardware, computers, cooking, crafts, 
+
+crime, cyberculture, dogs, drawing, drugs, ecommerce, environment, fashion, fine-arts, firefox, geography, 
+
+graphic-design, guitar, guns, hacking, health, history, humor, illusions, interior-design, internet, internet-
+
+tools, iraq, liberal-politics, liberties, linguistics, linux, literature, mac-os, mathematics, movies, multimedia, 
+
+music, nature, network-security, news, online-games, open-source, painting, philosophy, photography, physics, 
+
+poetry, politics, programming, psychology, quizzes, relationships, religion, satire, science, science-fiction, 
+
+self-improvement, shopping, software, space-exploration, stumblers, stumbleupon, tattoos, travel, tv, video, 
+
+video-games, web-design, windows, writing, actors, america, apple, art, aviation, blog, blogging, bush, 
+
+california, car, cartoon, cat, celebrity, charity, children, climate-change, college, comedy, comic, community, 
+
+dance, death, debate, design, diet, diy, dog, economy, election, elections, energy, entertainment, exercise, 
+
+facebook, film, finance, flash, flowers, food, football, funny, gadgets, game, games, gaming, global-warming, god, 
+
+google, graffiti, green, home, humour, illustration, images, internet-marketing, life, living, love, mac, 
+
+marriage, math, media, medicine, microsoft, money, music-video, obama, oil, online, paintings, pakistan, peace, 
+
+photo, photos, photoshop, pictures, pirates, president, quotes, recipe, recipes, republican, rock, sculpture, 
+
+security, social-media, social-networking, society, space, star-wars, tech, technology, television, tips, tools, 
+
+tutorials, ubuntu, vegan, video, videos, vintage, war, water, web, web-development, weird, wordpress, youtube, 
+
+sex, sexy, hot, love, porn, president, 2008, 2009, winter, secret, omg, no, way, amplafitesttag, art, arts, bank, 
+
+barackobama, bi, bisexual, blues, broadway, business, c, canvass, children, classical, college, comedy, community, 
+
+communityservice, concert, conference, convention, country, county, dance, debatewatchparty, design, development, 
+
+drive, election, election08, entrepreneur, event, events, fair, family, festival, field, filmfest, florida, 
+
+football, for, free, fun, fundraising, halloween, haunted, indie, iowavoteearlyforchangeweekofac, jazz, kids, 
+
+league, live, local, localfieldoffice, london, management, marketing, media, meeting, music, musicals, mybo, 
+
+national, networking, new, nfl, nyc, obama, of, office, organizing, party, performance, phone, phonebank, pop, 
+
+pride, prideevent, pridefest, registration, rock, service, show, shows, social, sport, sports, startup, 
+
+technology, theater, tour, voter, voterregistrationdrive, w, web, western, women, women for obama, workshop, , 
+
+free, money, cash, movie, download Boys;Girls;Funny;Awesome;gangstuh;watch;... perry;kim 
+
+kardashian;sweet;bored;omg;black eyed peas;phones;computers;lap tops;clothes;pants;under wear;kika sovergnty;shane 
+
+dawson;nail polish;gum;candy;pee;hilarious;music;sha... dawson tv2;Music;videos;omfg;rofl;tutorials;sex... 
+
+calls;writing;videos;cameras;cell phones;cellular phones;spelling;what;ahhh;lol;lmao;rofl;... news;ryan 
+
+seacrest;pink;purple</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=nTNwSSEyMuI&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/nTNwSSEyMuI/default.jpg' height='90' width='120' time='00:00:28.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/nTNwSSEyMuI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/nTNwSSEyMuI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/nTNwSSEyMuI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/nTNwSSEyMuI/1.jpg' height='90' width='120' time='00:00:14.250' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/nTNwSSEyMuI/2.jpg' height='90' width='120' time='00:00:28.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/nTNwSSEyMuI/3.jpg' height='90' width='120' time='00:00:42.750' yt:name='end'/><media:title type='plain'>Mambooed</media:title><yt:duration seconds='57'/><yt:uploaded>2011-09-30T14:01:49.000Z</yt:uploaded><yt:uploaderId>UCM68odmb-EyopYkuaJO77Dw</yt:uploaderId><yt:videoid>nTNwSSEyMuI</yt:videoid></media:group><yt:statistics favoriteCount='0' viewCount='200'/></entry>

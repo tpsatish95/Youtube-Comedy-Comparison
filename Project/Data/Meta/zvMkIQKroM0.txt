@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DEIHSH47eCp7I2A9XRRQE0k.&quot;'><id>tag:youtube.com,2008:video:zvMkIQKroM0</id><published>2011-09-18T15:33:53.000Z</published><updated>2015-02-07T22:02:19.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>My Name is Earl - Airport Scene</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/zvMkIQKroM0?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=zvMkIQKroM0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/zvMkIQKroM0/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=zvMkIQKroM0'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/sDsZPLMHwMMkRnu1ssr4VA?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/zvMkIQKroM0?v=2'/><author><name>Mohammed Alias</name><uri>https://gdata.youtube.com/feeds/api/users/DrCheetoDust</uri><yt:userId>sDsZPLMHwMMkRnu1ssr4VA</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/zvMkIQKroM0/comments?v=2' countHint='28'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/zvMkIQKroM0?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='45' yt:format='5'/><media:content url='rtsp://r6---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQnNoKsCISTzzhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='45' yt:format='1'/><media:content url='rtsp://r6---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQnNoKsCISTzzhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='45' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Mohammed Alias'>drcheetodust</media:credit><media:description type='plain'>My Name Is Earl: "South of the Border" 
+
+We finally made it to the airport.
+
+
+And it turns out airport people ask
+a lot more questions than bus people.
+
+- How many individuals are flying?
+- Two.
+
+- When would you like to depart?
+- Well, whenever's good for the pilot.
+
+I mean, we're ready to go now,
+but whenever the pilot's ready to go.
+
+
+- Would you like a window seat or an aisle seat?
+- I want a chair seat.
+
+
+Either one's fine.
+
+- Passports?
+- Past sports? Hmm.
+
+Uh, played a little baseball
+and some soccer as a kid-
+
+No, sir, to leave the country,
+you both need passports.
+
+- Identification.
+- Oh, passports.
+
+I think you only need those if you're
+a foreigner. We're American.
+
+
+NO COPYRIGHT IN-FRAGMENT INTENDED</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=zvMkIQKroM0&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/zvMkIQKroM0/default.jpg' height='90' width='120' time='00:00:22.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/zvMkIQKroM0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/zvMkIQKroM0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/zvMkIQKroM0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/zvMkIQKroM0/1.jpg' height='90' width='120' time='00:00:11.250' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/zvMkIQKroM0/2.jpg' height='90' width='120' time='00:00:22.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/zvMkIQKroM0/3.jpg' height='90' width='120' time='00:00:33.750' yt:name='end'/><media:title type='plain'>My Name is Earl - Airport Scene</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='45'/><yt:uploaded>2011-09-18T15:33:53.000Z</yt:uploaded><yt:uploaderId>UCsDsZPLMHwMMkRnu1ssr4VA</yt:uploaderId><yt:videoid>zvMkIQKroM0</yt:videoid></media:group><gd:rating average='4.927928' max='5' min='1' numRaters='111' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='48740'/><yt:rating numDislikes='2' numLikes='109'/></entry>

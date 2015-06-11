@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;D0UHQ347eCp7I2A9XRRXFUU.&quot;'><id>tag:youtube.com,2008:video:pCdmiZyyGjQ</id><published>2009-01-10T05:35:45.000Z</published><updated>2015-02-22T06:07:12.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Top 60 Ghetto Black Names</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/pCdmiZyyGjQ?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=pCdmiZyyGjQ&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/pCdmiZyyGjQ/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=pCdmiZyyGjQ'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/C3tvsUBSU0S5qxx1zcB-AQ?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/pCdmiZyyGjQ?v=2'/><author><name>thatboyandrew</name><uri>https://gdata.youtube.com/feeds/api/users/thatboyandrew</uri><yt:userId>C3tvsUBSU0S5qxx1zcB-AQ</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/pCdmiZyyGjQ/comments?v=2' countHint='73796'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/pCdmiZyyGjQ?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='76' yt:format='5'/><media:content url='rtsp://r1---sn-a5m7zu7e.c.youtube.com/CiILENy73wIaGQk0GrKciWYnpBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='76' yt:format='1'/><media:content url='rtsp://r1---sn-a5m7zu7e.c.youtube.com/CiILENy73wIaGQk0GrKciWYnpBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='76' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='thatboyandrew' yt:type='partner'>thatboyandrew</media:credit><media:description type='plain'>This is the ORIGINAL video. The rest are parodies.
+
+We countdown the top 60 ghettoest and blackest names
+
+Follow me on Twitter!
+http://twitter.com/thatboyandrew
+
+Check out the making of this video here:
+
+http://www.youtube.com/watch?v=DkbB0u26mMY
+
+5-18-2009
+This video was posted on Kanye West's Blog by Kanye himself!!!
+
+Check it out here:
+http://www.kanyeuniversecity.com/blog/?em3106=232203_-1__0_~0_-1_5_2009_0_0&amp;em3298=&amp;em3282=&amp;em3281=&amp;em3161=
+
+Evens - Andrew
+Odds - Isaac
+
+Andrew's Favorite - 27. Elephantisha
+Isaac's Favorite - 24. Qua'Lifriaqui'Sha'Niquia
+
+We are both Hispanic
+
+The story behind the video: (By request)
+
+One day in school I, (Andrew) came up with the idea for the video. In my 8th period class I started jotting down a list of names I could think of. My friend Zoe asked to see the list, so I let her see. She put down a few names and soon it went around the whole backrow of the classroom. When it got back to me there was about 20 more names on there (Adding to the 50 or so I jotted down)
+When it got back to me I added an extra 10 or 15.
+After school I showed Isaac the list, and he still was skeptical and didn't think it was too good of an idea, but I convinced him to try it out.
+We got picked up from school and went to go eat at a restaurant with my parents. While waiting for our food we finalized the list by crossing out names that weren't funny and adding some of the best ones.
+We went to his house after eating and decided to quickly make the video then and there, because I was about to leave to go home.
+There was about 80 or so names on the original list (which I still have) but we marked it down to 60.
+The names are really in no particular order, it's just in the order in which the names were listed.
+Though we did save #2 and #1 for last puposely.
+Luckily at his house there was a bag of KFC biscuits and leftover watermelon in the fridge.
+The video was made in less than 10 minutes. We sat down across from each other at a table with the list on the table. We'd pass the list to one another while the other person held the camera.
+The video was edited in less than 20 minutes, when I got home. I rushed to put this on YouTube as soon as I could. 
+At the end of the editing I noticed there was only 59 names we did, so I got the camera and filmed myself saying #60 in the computer room then quickly added it as the very first name said. If you notice, the background is different and my face is really close.
+I (Andrew) had to say some of the longest ones because Isaac didn't want to and/or couldn't pronounce them.
+It took me about 5 tries to pronounce #2.
+And we never thought this video would be so popular and go viral, if we did know, we would've spent a lot more time on the list and video.
+
+Thanks to everyone for all of the support! And I love all of the parodies and responses people are uploading!
+
+And to the people that leave hate comments and/or have pointless arguments over this video, just get over it. It's a joke. Nobody wants to hear your complaining. 
+
+1-23-2009 - 1,000
+2-16-2009 - 10,000
+2-25-2009 - 20,000
+3-2-2009 - 30,000
+3-5-2009 - 40,000
+3-7-2009 - 50,000
+3-9-2009 - 60,000
+3-11-2009 - 70,000
+3-12-2009 - 80,000
+3-12-2009 - 90,000
+3-13-2009 - 100,000
+3-18-2009 - 150,000
+3-22-2009 - 200,000
+3-25-2009 - 250,000
+3-28-2009 - 300,000
+3-31-2009 - 350,000
+4-2-2009 - 400,000
+4-4-2009 - 450,000
+4-6-2009 - 500,000
+4-7-2009 - 550,000
+4-9-2009 - 600,000
+4-10-2009 - 650,000
+4-12-2009 - 700,000
+4-14-2009 - 750,000
+4-15-2009 - 800,000
+4-16-2009 - 850,000
+4-17-2009 - 900,000
+4-19-2009 - 950,000
+4-21-2009 - 1,000,000
+5-21-2009 - 2,000,000
+6-21-2009 - 3,000,000
+7-31-2009 - 4,000,000
+9-13-2009 - 5,000,000
+10-26-2009 - 6,000,000</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=pCdmiZyyGjQ&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/pCdmiZyyGjQ/default.jpg' height='90' width='120' time='00:00:38' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/pCdmiZyyGjQ/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/pCdmiZyyGjQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/pCdmiZyyGjQ/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/pCdmiZyyGjQ/1.jpg' height='90' width='120' time='00:00:19' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/pCdmiZyyGjQ/2.jpg' height='90' width='120' time='00:00:38' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/pCdmiZyyGjQ/3.jpg' height='90' width='120' time='00:00:57' yt:name='end'/><media:title type='plain'>Top 60 Ghetto Black Names</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='76'/><yt:uploaded>2009-01-10T05:35:45.000Z</yt:uploaded><yt:uploaderId>UCC3tvsUBSU0S5qxx1zcB-AQ</yt:uploaderId><yt:videoid>pCdmiZyyGjQ</yt:videoid></media:group><gd:rating average='4.8434896' max='5' min='1' numRaters='187157' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='30695736'/><yt:rating numDislikes='7323' numLikes='179834'/></entry>

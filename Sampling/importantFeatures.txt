@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<title>Raspberry Pi: 8 Channel Relay step-by-step with software examples for automation</title>
+
+
+<gd:comments>
+<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/oaf_zQcrg7g/comments?v=2' 
+countHint='191'/>
+</gd:comments>
+
+<media:description type='plain'>
+Check in this section for all the further information relating to this video.
+</media:description>
+
+<yt:duration seconds='699'/>
+</media:group>
+
+<gd:rating average='4.9388647' max='5' min='1' numRaters='916' rel='http://schemas.google.com/g/2005#overall'/>
+
+<yt:statistics favoriteCount='0' viewCount='102050'/>
+<yt:rating numDislikes='14' numLikes='902'/>
+
+Feature List:
+
+title
+gd:feedLink ---  countHint
+media:description
+yt:duration --- seconds
+gd:rating --- average --- max --- numRaters
+yt:statistics --- favoriteCount --- viewCount
+yt:rating --- numDislikes --- numLikes
+
+Feature Tuple:
+
+(title,countHint,media:description,durationSeconds,(ratingAverage,ratingMax,ratingnNumRaters),(statisticsFavoriteCount,statisticsViewCount),(ratingNumDislikes,ratingNumLikes))

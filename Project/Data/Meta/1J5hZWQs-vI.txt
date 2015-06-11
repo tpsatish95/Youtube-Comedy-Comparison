@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CkMNQ347eCp7I2A9XRRXFUs.&quot;'><id>tag:youtube.com,2008:video:1J5hZWQs-vI</id><published>2010-04-23T19:47:43.000Z</published><updated>2015-02-21T23:14:52.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>The Cursed Onion Ring Tape</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/1J5hZWQs-vI?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=1J5hZWQs-vI&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/1J5hZWQs-vI/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=1J5hZWQs-vI'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/i-5OZ2tYuwMLIcEyOsbdRA?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/1J5hZWQs-vI?v=2'/><author><name>Annoying Orange</name><uri>https://gdata.youtube.com/feeds/api/users/realannoyingorange</uri><yt:userId>i-5OZ2tYuwMLIcEyOsbdRA</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/1J5hZWQs-vI/comments?v=2' countHint='9717'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/1J5hZWQs-vI?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='69' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQny-ixkZWGe1BMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='69' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQny-ixkZWGe1BMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='69' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Annoying Orange' yt:type='partner'>realannoyingorange</media:credit><media:description type='plain'>The entire cursed Onion Ring tape. Send to 5 friends or else you're an onion ring. Click here to see what happens if you don't send this video: http://www.youtube.com/watch?v=1J5hZWQs-vI
+
+MERCH: http://bit.ly/18PhFlH
+T-SHIRTS! http://bit.ly/AOMerch
+MUSIC! http://bit.ly/AOMusic
+AO TOYS! http://bit.ly/AOToys
+
+SPLATTER UP GAME: 
+FREE iTunes: http://bit.ly/SplatterUpFreeiOS
+FREE Google Play: http://bit.ly/SplatterUpFreeGoogle
+iTunes: http://bit.ly/SplatterUpiOS
+Google Play: http://bit.ly/SplatterUpGoogle
+
+KITCHEN CARNAGE GAME:
+FREE iTunes: http://bit.ly/KitchenCarnageFREE
+FREE Google Play: http://bit.ly/KitchenCarnageGPFree
+iTunes: http://bit.ly/KitchenCarnage
+iTunes iPad: http://bit.ly/KitchenCarnageHD
+Google Play: http://bit.ly/KitchenCarnageGP
+
+GET A TEXT WHEN I UPLOAD NEW VIDEOS!
+http://motube.us/realannoyingorange
+
+FOLLOW ME:
+TWITTER: http://twitter.com/annoyingorange
+FACEBOOK: http://facebook.com/annoyingorange
+INSTAGRAM: http://instagram.com/annoyingorange
+GOOGLE+: https://plus.google.com/+AnnoyingOrange
+MY WEBSITE: http://annoyingorange.com</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=1J5hZWQs-vI&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/1J5hZWQs-vI/default.jpg' height='90' width='120' time='00:00:34.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/1J5hZWQs-vI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/1J5hZWQs-vI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/1J5hZWQs-vI/1.jpg' height='90' width='120' time='00:00:17.250' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/1J5hZWQs-vI/2.jpg' height='90' width='120' time='00:00:34.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/1J5hZWQs-vI/3.jpg' height='90' width='120' time='00:00:51.750' yt:name='end'/><media:title type='plain'>The Cursed Onion Ring Tape</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='69'/><yt:uploaded>2010-04-23T19:47:43.000Z</yt:uploaded><yt:uploaderId>UCi-5OZ2tYuwMLIcEyOsbdRA</yt:uploaderId><yt:videoid>1J5hZWQs-vI</yt:videoid></media:group><gd:rating average='4.8565855' max='5' min='1' numRaters='58683' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='4241918'/><yt:rating numDislikes='2104' numLikes='56579'/></entry>

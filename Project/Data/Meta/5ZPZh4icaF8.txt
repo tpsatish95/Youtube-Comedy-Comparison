@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;A0UGSH47eCp7I2A9XRRXEUw.&quot;'><id>tag:youtube.com,2008:video:5ZPZh4icaF8</id><published>2011-12-06T20:41:19.000Z</published><updated>2015-02-16T20:40:29.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>iBle...The New Bible!</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/5ZPZh4icaF8?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=5ZPZh4icaF8&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/5ZPZh4icaF8/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=5ZPZh4icaF8'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/e-__IuvDY_F1e7vF94pdOw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/5ZPZh4icaF8?v=2'/><author><name>DadsGarageTV</name><uri>https://gdata.youtube.com/feeds/api/users/DadsGarageTV</uri><yt:userId>e-__IuvDY_F1e7vF94pdOw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/5ZPZh4icaF8/comments?v=2' countHint='52'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/5ZPZh4icaF8?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='88' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQlfaJyIh9mT5RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='88' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQlfaJyIh9mT5RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='88' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='DadsGarageTV'>dadsgaragetv</media:credit><media:description type='plain'>Just in time for the Holiday Season... a great stocking stuffer idea from Dad's Garage TV! Call Now!
+
+www.dadsgarage.com
+
+CREDITS:
+
+Writers   Nick Gibbons &amp; Harriss Callahan
+
+Director and Editor  Nick Gibbons
+
+Executive Producer  Kevin Gillese
+
+Line Producer  Megan Reilly Gane 
+Director of Photography Adam Pinney
+
+Special Effects              Nath Milburn
+Lighting   Conan Joshua Santamaria
+
+Sound Recordist and Grip Jason Stachur  
+
+Bumper Creation  Adam Pinney &amp; Linnea Frye
+
+Technical Consultant Jamie Warde 
+ 
+
+Starring   Lucky Yates, Amber Nash, Nick Gibbons, Gavin Cramblet, Ed Morgan,     Clint Sowell, Travis Sharp, Rene Dellefont, Matt Horgan, Kevin Gillese,     Conan Joshua Santamaria, Jessica Pack, Libby Chapman, and Carson     and Emily Stoddert 
+ 
+
+Voice Over    Big Mike Geier 
+ 
+
+Special Thanks to   Tim Moxley, The Dames a Flame www.damesaflame.com, Trudy Stoddert 
+Supported by   MetLife/TCG A-ha! Program &amp; EMC Arts Innovation Lab</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=5ZPZh4icaF8&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/5ZPZh4icaF8/default.jpg' height='90' width='120' time='00:00:44' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/5ZPZh4icaF8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/5ZPZh4icaF8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/5ZPZh4icaF8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/5ZPZh4icaF8/1.jpg' height='90' width='120' time='00:00:22' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/5ZPZh4icaF8/2.jpg' height='90' width='120' time='00:00:44' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/5ZPZh4icaF8/3.jpg' height='90' width='120' time='00:01:06' yt:name='end'/><media:title type='plain'>iBle...The New Bible!</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='88'/><yt:uploaded>2011-12-06T20:41:19.000Z</yt:uploaded><yt:uploaderId>UCe-__IuvDY_F1e7vF94pdOw</yt:uploaderId><yt:videoid>5ZPZh4icaF8</yt:videoid></media:group><gd:rating average='4.857143' max='5' min='1' numRaters='168' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='12809'/><yt:rating numDislikes='6' numLikes='162'/></entry>

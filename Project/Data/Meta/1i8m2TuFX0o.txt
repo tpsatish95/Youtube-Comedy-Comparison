@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;AkEBR347eCp7I2A9XRRVFEk.&quot;'><id>tag:youtube.com,2008:video:1i8m2TuFX0o</id><published>2009-10-06T01:56:47.000Z</published><updated>2015-03-15T19:44:16.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Shows' label='Shows'/><title>Fails - Machine Gun Scare on Sleeper - Break Scares</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/1i8m2TuFX0o?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=1i8m2TuFX0o&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/1i8m2TuFX0o/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=1i8m2TuFX0o'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/lmmbesFjIzJAp8NQCtt8dQ?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#video.show' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/shows/IGaEzqnaZvM?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#video.season' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/seasons/f7pWtstuYnY?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/1i8m2TuFX0o?v=2'/><author><name>Break</name><uri>https://gdata.youtube.com/feeds/api/users/break</uri><yt:userId>lmmbesFjIzJAp8NQCtt8dQ</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><yt:availability start='2012-11-20T00:00:00.000Z'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/1i8m2TuFX0o/comments?v=2' countHint='2041'/></gd:comments><yt:episode number='3'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#season.clips' href='https://gdata.youtube.com/feeds/api/seasons/f7pWtstuYnY/clips?v=2'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#season.episodes' href='https://gdata.youtube.com/feeds/api/seasons/f7pWtstuYnY/episodes?v=2'/><yt:firstReleased>2012-11-20T08:00:00.000Z</yt:firstReleased><media:group><media:category label='Shows' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Shows</media:category><media:category scheme='http://gdata.youtube.com/schemas/2007/releasemediums.cat'>6</media:category><media:category scheme='http://gdata.youtube.com/schemas/2007/mediatypes.cat'>3</media:category><media:content url='https://www.youtube.com/v/1i8m2TuFX0o?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='38' yt:format='5'/><media:content url='rtsp://r3---sn-4g57kuez.c.youtube.com/CiILENy73wIaGQlKX4U72SYv1hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='38' yt:format='1'/><media:content url='rtsp://r3---sn-4g57kuez.c.youtube.com/CiILENy73wIaGQlKX4U72SYv1hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='38' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Break' yt:type='partner'>break</media:credit><media:description type='plain'>This guy gets so scared, he looks like he's having a seizure when he wakes up.
+
+New updates to our FREE app! Get it now: http://brk.to/appsYT
+
+Send in your videos to get $ and be featured: http://brk.to/submit
+
+For the funniest videos breaking online, visit Break.com -http://brk.to/tobreak
+
+More Break approved videos:
+
+MadeMan.com - http://brk.to/tomademanvideos
+
+GameFront - http://brk.to/toGameFront
+
+Break gets social:
+
+Facebook - http://brk.to/tobreakfacebook
+
+Twitter - http://brk.to/tobreakcomtwitter
+
+Top Ten Most Popular Videos
+
+Topless Bikini Beach Prank: http://www.youtube.com/watch?v=Q_NMxazFqCA
+Couple Pranks: http://www.youtube.com/watch?v=jvbBB9ipndA
+Top 10 Scare Pranks - 2012 Countdown: http://www.youtube.com/watch?v=42t7e1-UL7w
+Scary Wake Up Pranks: http://www.youtube.com/watch?v=P1bPWHQkD4E
+Pranks - Vol. 3: http://www.youtube.com/watch?v=zCbnTkK2LdQ
+Top Ten Pranks of 2011: http://www.youtube.com/watch?v=JJ8LsPeIhPM
+Dumb Europeans: http://www.youtube.com/watch?v=L6dEUQ6WiHY
+Girlfriend Scare Pranks: http://www.youtube.com/watch?v=FpPydJPuAEs
+Crazy Couples Pranks - 2: http://www.youtube.com/watch?v=t60jJ6qa1g8
+Funniest Videos of 2011 - Top 10: http://www.youtube.com/watch?v=vOVe5bUZmTE
+
+Best Playlists
+
+OUT PRANK with Roman Atwood: http://www.youtube.com/playlist?list=PLi4_17dTpNzV8aSvDg2QEFsUsuAav-qWn&amp;feature=view_all
+
+Break's Most Awesome: https://www.youtube.com/playlist?list=PL033F52A8FBD5B449&amp;feature=view_all
+
+Ultimate Party Fails: https://www.youtube.com/playlist?list=PLi4_17dTpNzWa86c7JvTqgX1AEHfaBxA-&amp;feature=view_all
+
+Best Scare Pranks: https://www.youtube.com/playlist?list=PL0E4FC355D7D8B3E4&amp;feature=view_all
+
+Ultimate Top 10 Videos: https://www.youtube.com/playlist?list=PLi4_17dTpNzXcLO6ObkKTS7MfffOBy6sD&amp;feature=view_all
+
+Break is a leading creator, publisher, and distributor of digital entertainment content including video, editorial, and games.  Subscribe for more hilarious pranks, fails, stunts, and wins. For licensing inquiries please email us at licensing@break.com</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=1i8m2TuFX0o&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/1i8m2TuFX0o/default.jpg' height='90' width='120' time='00:00:19' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/1i8m2TuFX0o/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/1i8m2TuFX0o/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/1i8m2TuFX0o/1.jpg' height='90' width='120' time='00:00:09.500' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/1i8m2TuFX0o/2.jpg' height='90' width='120' time='00:00:19' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/1i8m2TuFX0o/3.jpg' height='90' width='120' time='00:00:28.500' yt:name='end'/><media:title type='plain'>Fails - Machine Gun Scare on Sleeper - Break Scares</media:title><yt:duration seconds='38'/><yt:uploaded>2009-10-06T01:56:47.000Z</yt:uploaded><yt:uploaderId>UClmmbesFjIzJAp8NQCtt8dQ</yt:uploaderId><yt:videoid>1i8m2TuFX0o</yt:videoid></media:group><gd:rating average='4.873063' max='5' min='1' numRaters='5357' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1820043'/><yt:rating numDislikes='170' numLikes='5187'/></entry>

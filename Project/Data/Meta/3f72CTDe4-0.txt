@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CEAHSX47eCp7I2A9XRRXFUU.&quot;'><id>tag:youtube.com,2008:video:3f72CTDe4-0</id><published>2007-10-01T11:01:19.000Z</published><updated>2015-02-22T05:25:38.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Tom Lehrer - The Vatican Rag</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/3f72CTDe4-0?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=3f72CTDe4-0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/3f72CTDe4-0/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=3f72CTDe4-0'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/uvRHuqLf6F3tV3jA2cyhUA?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/3f72CTDe4-0?v=2'/><author><name>The Tom Lehrer Wisdom Channel</name><uri>https://gdata.youtube.com/feeds/api/users/6funswede</uri><yt:userId>uvRHuqLf6F3tV3jA2cyhUA</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/3f72CTDe4-0/comments?v=2' countHint='1007'/></gd:comments><yt:location>Oslo Norway</yt:location><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/3f72CTDe4-0?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='80' yt:format='5'/><media:content url='rtsp://r7---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQnt494wCfb-3RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='80' yt:format='1'/><media:content url='rtsp://r7---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQnt494wCfb-3RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='80' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='The Tom Lehrer Wisdom Channel'>6funswede</media:credit><media:description type='plain'>http://www.amazon.com/Tom-Lehrer-Collection-CD-DVD/dp/B0039TD73G/ref=sr_1_3?ie=UTF8&amp;s=music&amp;qid=1284930177&amp;sr=8-3
+
+Use the above link and get the uninterrupted Lehrer TV-performance and The Tom Lehrer Collection from Amazon.com.
+
+http://www.shoutfactorystore.com/prod.aspx?pfid=5257149
+
+If you live in the United States you can also buy the collection from Shout! Factory, using the above link.
+
+http://itunes.apple.com/us/artist/tom-lehrer/id293867859
+
+Use the above link to buy Tom Lehrer's songs on iTunes.
+
+- - -
+
+Over the years a lot of people have been offended by this song, also on YouTube. 
+
+Now you can read Tom Lehrer's own introduction to the song, played by The Music Show in Australia when he was interviewed on the telephone a few years ago:
+
+- - -
+
+Another big news story of the year (1965) concerned the Ecumenical Council in Rome, known as Vatican II. Among the things they did, in an attempt to make the church more commercial, was to introduce the vernacular into portions of the mass to replace Latin, and to widen somewhat the range of music permissible in the liturgy. But I feel that if they really want to sell the product in this secular age, what they ought to do is to re-do some of the liturgical music in popular song forms. I have a modest example here. It's called The Vatican Rag...
+
+- - -
+
+Lehrer said "OK" to "The Tom Lehrer Wisdom Channel" on YouTube, as long as the performance is not altered and as long as it's free in the YouTube flash video format.
+
+Click on the user name and visit the channel's front page. The channel is Lehrer only. And here is a link to a NEW channel support page:
+
+http://home.broadpark.no/~emeyn/tl/
+
+© Tom Lehrer
+
+Recording date: September 11th 1967
+Format: Ampex Quadruplex PAL 4:3
+Status: A very rare recording
+Storage: Sony Digital Betacam
+Production and preservation: The Norwegian Broadcasting Corporation - the NRK, Norway. More here:
+
+http://www.nrk.no/informasjon/about_the_nrk/1.3698504</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=3f72CTDe4-0&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/3f72CTDe4-0/default.jpg' height='90' width='120' time='00:00:40' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/3f72CTDe4-0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/3f72CTDe4-0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/3f72CTDe4-0/1.jpg' height='90' width='120' time='00:00:20' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/3f72CTDe4-0/2.jpg' height='90' width='120' time='00:00:40' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/3f72CTDe4-0/3.jpg' height='90' width='120' time='00:01:00' yt:name='end'/><media:title type='plain'>Tom Lehrer - The Vatican Rag</media:title><yt:duration seconds='80'/><yt:uploaded>2007-10-01T11:01:19.000Z</yt:uploaded><yt:uploaderId>UCuvRHuqLf6F3tV3jA2cyhUA</yt:uploaderId><yt:videoid>3f72CTDe4-0</yt:videoid></media:group><gd:rating average='4.915744' max='5' min='1' numRaters='3703' rel='http://schemas.google.com/g/2005#overall'/><yt:recorded>1967-09-11</yt:recorded><yt:statistics favoriteCount='0' viewCount='1009222'/><yt:rating numDislikes='78' numLikes='3625'/></entry>

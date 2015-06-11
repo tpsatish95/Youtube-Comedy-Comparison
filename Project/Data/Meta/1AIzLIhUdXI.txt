@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CUQERH47eCp7I2A9XRRQGE4.&quot;'><id>tag:youtube.com,2008:video:1AIzLIhUdXI</id><published>2012-02-25T18:43:30.000Z</published><updated>2015-02-13T13:15:05.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>L'Amazing Clip du Jour du 25 Février 2012 ! MW3 / MW2 !</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/1AIzLIhUdXI?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=1AIzLIhUdXI&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/1AIzLIhUdXI/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=1AIzLIhUdXI'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/peKpGjdi31BhdO6qPRQbVQ?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/1AIzLIhUdXI?v=2'/><author><name>PlayComedyClub</name><uri>https://gdata.youtube.com/feeds/api/users/PlayComedyClub</uri><yt:userId>peKpGjdi31BhdO6qPRQbVQ</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/1AIzLIhUdXI/comments?v=2' countHint='207'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/1AIzLIhUdXI?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='50' yt:format='5'/><media:content url='rtsp://r3---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQlydVSILDMC1BMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='50' yt:format='1'/><media:content url='rtsp://r3---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQlydVSILDMC1BMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='50' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='PlayComedyClub' yt:type='partner'>playcomedyclub</media:credit><media:description type='plain'>Pu grand chose à dire, donc je dis rien, si ce n'est que j'espère que ce clip va vous plaire autant que les autres :)
+
+Notre FaceBook : http://www.facebook.com/pages/PlayComedyClub/161328760603029
+
+Notre Twitter : https://twitter.com/#!/playcomedyclub
+
+Auteur du premier clip : https://www.youtube.com/user/byNaroO
+
+Auteur du deuxième clip : http://www.youtube.com/user/TehPeriia
+
+Commentateur : http://www.youtube.com/amazingtux
+
+========================================================
+
+Playlist Fun : http://www.youtube.com/playlist?list=PLB491D38256DFCA81&amp;a
+............
+
+Playlist Funtage : http://www.youtube.com/playlist?list=PL5DD82A19E260B4A9&amp;a
+............
+
+Playlist Canular : http://www.youtube.com/playlist?list=PLD1A5E7915311B69F&amp;a
+............
+
+Playlist TrickChiotte : http://www.youtube.com/playlist?list=PLBBFDC525A8B9FB1C&amp;a
+............
+
+Playlist Squeezie : http://www.youtube.com/playlist?list=PLD55BF0092B9F68D0&amp;a
+............
+
+Playlist Parodie : http://www.youtube.com/playlist?list=PL7C4B54B6ECC40D5F&amp;a
+............</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=1AIzLIhUdXI&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/1AIzLIhUdXI/default.jpg' height='90' width='120' time='00:00:25' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/1AIzLIhUdXI/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/1AIzLIhUdXI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/1AIzLIhUdXI/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/1AIzLIhUdXI/1.jpg' height='90' width='120' time='00:00:12.500' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/1AIzLIhUdXI/2.jpg' height='90' width='120' time='00:00:25' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/1AIzLIhUdXI/3.jpg' height='90' width='120' time='00:00:37.500' yt:name='end'/><media:title type='plain'>L'Amazing Clip du Jour du 25 Février 2012 ! MW3 / MW2 !</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='50'/><yt:uploaded>2012-02-25T18:43:30.000Z</yt:uploaded><yt:uploaderId>UCpeKpGjdi31BhdO6qPRQbVQ</yt:uploaderId><yt:videoid>1AIzLIhUdXI</yt:videoid></media:group><gd:rating average='4.8703976' max='5' min='1' numRaters='679' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='21544'/><yt:rating numDislikes='22' numLikes='657'/></entry>

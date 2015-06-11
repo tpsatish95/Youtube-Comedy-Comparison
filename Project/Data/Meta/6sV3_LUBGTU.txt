@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;AkAARn47eCp7I2A9XRRXFU0.&quot;'><id>tag:youtube.com,2008:video:6sV3_LUBGTU</id><published>2009-06-17T02:57:10.000Z</published><updated>2015-02-21T08:52:27.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Obama Kills Fly: Ninja REMIX!</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/6sV3_LUBGTU?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=6sV3_LUBGTU&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/6sV3_LUBGTU/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=6sV3_LUBGTU'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/EmCXnbNYz-MOtXi3lZ7W1Q?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/6sV3_LUBGTU?v=2'/><author><name>Barely Political</name><uri>https://gdata.youtube.com/feeds/api/users/barelypolitical</uri><yt:userId>EmCXnbNYz-MOtXi3lZ7W1Q</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/6sV3_LUBGTU/comments?v=2' countHint='7746'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/6sV3_LUBGTU?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='38' yt:format='5'/><media:content url='rtsp://r6---sn-a5m7zu7e.c.youtube.com/CiILENy73wIaGQk1GQG1_HfF6hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='38' yt:format='1'/><media:content url='rtsp://r6---sn-a5m7zu7e.c.youtube.com/CiILENy73wIaGQk1GQG1_HfF6hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='38' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Barely Political' yt:type='partner'>barelypolitical</media:credit><media:description type='plain'>Barely Political's Ninja Obama dispels claims that he is "soft," showing no mercy to a fly. World be warned! 
+
+MORE BARELY:
+
+Click here to subscribe!
+http://www.youtube.com/subscription_center?add_user=barelypolitical
+
+Follow us on Twitter
+http://www.twitter.com/barelypolitical
+http://www.twitter.com/barelydigital
+
+Check out our websites
+http://www.barelypolitical.com
+http://www.barelydigital.com
+
+Friend us on Facebook &amp; Myspace
+http://www.facebook.com/barelypolitical
+http://www.myspace.com/obamagirl
+
+Leave us a voicemail
+1-(646)-827-2202
+
+Write us a letter!
+P.O. Box 30921 New York, NY 10011
+
+Watch Amber's channel
+http://www.youtube.com/2girls2minutes
+
+
+--</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=6sV3_LUBGTU&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/6sV3_LUBGTU/default.jpg' height='90' width='120' time='00:00:19' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/6sV3_LUBGTU/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/6sV3_LUBGTU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/6sV3_LUBGTU/1.jpg' height='90' width='120' time='00:00:09.500' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/6sV3_LUBGTU/2.jpg' height='90' width='120' time='00:00:19' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/6sV3_LUBGTU/3.jpg' height='90' width='120' time='00:00:28.500' yt:name='end'/><media:title type='plain'>Obama Kills Fly: Ninja REMIX!</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='38'/><yt:uploaded>2009-06-17T02:57:10.000Z</yt:uploaded><yt:uploaderId>UCEmCXnbNYz-MOtXi3lZ7W1Q</yt:uploaderId><yt:videoid>6sV3_LUBGTU</yt:videoid></media:group><gd:rating average='4.7711153' max='5' min='1' numRaters='16777' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='2466964'/><yt:rating numDislikes='960' numLikes='15817'/></entry>

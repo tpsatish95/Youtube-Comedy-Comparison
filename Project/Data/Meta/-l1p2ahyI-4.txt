@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;D08HRX47eCp7I2A9WhFQEEs.&quot;'><id>tag:youtube.com,2008:video:-l1p2ahyI-4</id><published>2011-10-27T04:01:43.000Z</published><updated>2013-07-05T23:10:34.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title>"I'm the Meanest Kid in My Class and I Got a Message for Nerds"  EVERY DAY AN EASY A</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/-l1p2ahyI-4?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=-l1p2ahyI-4&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/-l1p2ahyI-4/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=-l1p2ahyI-4'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/lAvstAftFVZ2z8zyViVVNg?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/-l1p2ahyI-4?v=2'/><author><name>PHOTONSUPERHERO</name><uri>https://gdata.youtube.com/feeds/api/users/PHOTONSUPERHERO</uri><yt:userId>lAvstAftFVZ2z8zyViVVNg</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/-l1p2ahyI-4/comments?v=2' countHint='1'/></gd:comments><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/-l1p2ahyI-4?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='52' yt:format='5'/><media:content url='rtsp://r8---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQnuI3Ko2Wld-hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='52' yt:format='1'/><media:content url='rtsp://r8---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQnuI3Ko2Wld-hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='52' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='PHOTONSUPERHERO'>photonsuperhero</media:credit><media:description type='plain'>http://www.everydayaneasya.com or http://www.booksnotbombs.com 
+http://www.treeofknowledgepress.com 
+BEST BUY: ALL GLOBAL BOOKSTORES
+
+"Today, I aced my test. When I grow up, I want to be somebody special. Thanks MOM and DAD for the book "EVERY DAY AN EASY A" because GOOD GRADES BECOME GRAND DREAMS. And all my friends have the book because of the competitive advantage of 
+
+Featuring...
+
+EVERY DAY AN EASY A: WE ARE THE POWER
+The New Learning Technology Empowers Students for Academic Success in School and Professional Success in the Workplace
+
+EVERY DAY AN EASY A   Elementary
+‪http://search.barnesandnoble.com/books/product.aspx?ean=9781885872944‬
+
+EVERY DAY AN EASY A  High School
+http://search.barnesandnoble.com/Every-Day-an-Easy-A/Tree-of-Knowledge-Press-We-Educate-Children-One-Child-at-a-Time/e/9781885872968
+
+EVERY DAY AN EASY A  College
+http://search.barnesandnoble.com/EVERY-DAY-AN-EASY-A/Tree-of-Tree-of-Knowledge-Press/e/9781885872982
+
+
+Featuring...
+
+TOTAL RECALL: ACE EVERY TEST EVERY TIME   Elementary
+http://www.barnesandnoble.com/w/total-recall-tree-of-knowledge-press-we-educate-children-one-child-at-a-time/1101689454?ean=9781885872630
+
+TOTAL RECALL: ACE EVERY TEST EVERY TIME  High School 
+http://search.barnesandnoble.com/Total-Recall/Tree-of-Knowledge-Press-We-Educate-Children-One-Child-at-a-Time/e/9781885872456
+
+TOTAL RECALL: ACE EVERY TEST EVERY TIME  College
+http://www.barnesandnoble.com/w/total-recall-tree-of-knowledge-press-we-educate-children-one-child-at-a-time/1101689454
+
+
+Featuring...
+
+YOUR STUDY ROOM IS UNDER NEW MANAGEMENT
+http://search.barnesandnoble.com/Your-Study-Room-Is-under-NEW-Management/Tree-of-Knowledge-Press-We-Educate-Children-One-Child-at-a-Time/e/9781885872807
+
+
+ALL GLOBAL BOOKSTORES  ‪http://www.everydayaneasya.com‬
+
+
+Featuring...
+SMARTGRADES SCHOOL NOTEBOOKS
+GOOD GRADES BECOME GRAND DREAMS
+
+
+#1  Smartgrades Academic Planner
+More Than 1000 Learning Tools for Academic Success
+http://search.barnesandnoble.com/books/product.aspx?ean=9781885872784
+
+How to Do More Homework in Less Time
+http://search.barnesandnoble.com/SMARTGRADES/The-Great-American-Notebook-Company/e/9781885872739/pwb=1&amp;
+
+How to Ace Every Test Every Time
+http://search.barnesandnoble.com/SMARTGRADES/The-Great-American-Notebook-Company/e/9781885872890/?itm=5
+
+How to Memorize Voluminous Facts for Total Recall
+http://www.barnesandnoble.com/w/smartgrades-school-notebooks-with-acandy-learning-tools-the-great-american-notebook-company/1101481687?ean=9781885872753
+
+How to Write a Grade A Research Paper
+http://search.barnesandnoble.com/SMARTGRADES/The-Great-American-Notebook-Company/e/9781885872777/?itm=6
+
+Textbook Test Review Notes
+http://search.barnesandnoble.com/SMARTGRADES-Notebook-for-Textbook-Test-Review-Notes/The-Great-American-Notebook-Company/e/9781885872913/?itm=12
+
+
+
+Featuring...
+
+EVERY DAY AN EASY A Notebook
+http://search.barnesandnoble.com/EVERY-DAY-an-EASY-A-School-Notebooks/The-Great-American-Notebook-Company/e/9781885872722/?itm=10
+
+
+Featuring...
+
+Golden Apple School Notebooks
+http://search.barnesandnoble.com/Golden-Apple-School-Notebooks/The-Great-American-Notebook-Company/e/9781885872623/?itm=13
+
+ALL GLOBAL BOOKSTORES: http://www.smartgrades.com
+
+
+Featuring... Children's Bookworm Award
+SCHMALTZY: The Cat Who Teaches Children How to Learn, Love, and Laugh
+http://www.barnesandnoble.com/w/schmaltzy-sharon-esther-lampert/1018711773?ean=9781885872388
+
+
+
+Join Us &amp; Join the Party: The Nerd &amp; Bully Peanut Butter &amp; Jelly Club on Facebook
+http://www.facebook.com/pages/Join-Us-The-Nerd-Bully-Peanut-Butter-Jelly-Club/252487748119492?sk=wall
+
+The Nerd &amp; Bully Peanut Butter &amp; Jelly Club
+VOTE: Cast your vote "Like" on Facebook.
+Q: Who is your favorite nerd?
+Q: Who is your favorite bully?
+Q: Which "Peanut Butter Smackdown" is the funniest?
+Q: Did you earn an A grade  thanks to EVERY DAY AN EASY A?
+Q: Did your dream come true because of  EVERY DAY AN EASY A?
+
+
+About Photon Superhero of Education: 
+
+PHOTON SUPERHERO OF EDUCATION Website
+‪http://www.BooksNotBombs.com‬
+WORLD PEACE IS COMING TO PLANET EARTH
+
+PHOTON SUPERHERO OF EDUCATION on Facebook
+‪http://www.facebook.com/pages/Photon-Superhero-of-Education-Everybody-Is-Some...‬
+
+PHOTON SUPERHERO OF EDUCATION on Twitter
+‪http://twitter.com/#!/PHOTONSUPERHERO‬
+
+PHOTON SUPERHERO OF EDUCATION's Purple and Yellow Bracelet
+"EVERYBODY IS SOMEBODY SPECIAL"
+‪http://www.everybodyissomebodyspecial.com‬</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=-l1p2ahyI-4&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/-l1p2ahyI-4/default.jpg' height='90' width='120' time='00:00:26' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/-l1p2ahyI-4/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/-l1p2ahyI-4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/-l1p2ahyI-4/1.jpg' height='90' width='120' time='00:00:13' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/-l1p2ahyI-4/2.jpg' height='90' width='120' time='00:00:26' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/-l1p2ahyI-4/3.jpg' height='90' width='120' time='00:00:39' yt:name='end'/><media:title type='plain'>"I'm the Meanest Kid in My Class and I Got a Message for Nerds"  EVERY DAY AN EASY A</media:title><yt:duration seconds='52'/><yt:uploaded>2011-10-27T04:01:43.000Z</yt:uploaded><yt:uploaderId>UClAvstAftFVZ2z8zyViVVNg</yt:uploaderId><yt:videoid>-l1p2ahyI-4</yt:videoid></media:group><gd:rating average='1.2666667' max='5' min='1' numRaters='15' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='706'/><yt:rating numDislikes='14' numLikes='1'/></entry>

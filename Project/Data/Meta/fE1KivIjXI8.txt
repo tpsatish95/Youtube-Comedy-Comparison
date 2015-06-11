@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;AkUAQX47eCp7I2A9XRRXFUU.&quot;'><id>tag:youtube.com,2008:video:fE1KivIjXI8</id><published>2008-04-01T06:22:29.000Z</published><updated>2015-02-22T06:57:20.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Retarded Policeman #7.5: Fish - with Felicia Day of The Guild</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/fE1KivIjXI8?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=fE1KivIjXI8&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/fE1KivIjXI8/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=fE1KivIjXI8'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UQYeJ6D3qDlQkMboh-8-xw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/fE1KivIjXI8?v=2'/><author><name>MediocreFilms</name><uri>https://gdata.youtube.com/feeds/api/users/MediocreFilms</uri><yt:userId>UQYeJ6D3qDlQkMboh-8-xw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/fE1KivIjXI8/comments?v=2' countHint='4342'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/fE1KivIjXI8?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='89' yt:format='5'/><media:content url='rtsp://r7---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQmPXCPyikpNfBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='89' yt:format='1'/><media:content url='rtsp://r7---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQmPXCPyikpNfBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='89' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='MediocreFilms' yt:type='partner'>mediocrefilms</media:credit><media:description type='plain'>NEW RP 2012 EPISODES ARE HERE!!! http://youtu.be/I63_Zw1lnso
+
+Check out our FAVORITE VIDEO! http://youtu.be/CYbVpAwGGGs
+
+Special Edition DVD! http://bit.ly/hccMLv
+
+Thanks for supporting us!!
+
+Before you leave mean comments, just know that our friend Gil (the Cop) is an awesome and talented young fish who loves performing and making light of his Swimdrome. He's a smart and funny fish, and has complete awareness of his fins. And we all had an awesome time shooting "Retarded Fish!"
+
+APRIL FOOLS!!!  THANKS FOR SUBSCRIBING!
+
+Special thanks to Felicia Day of "The Guild" for playing with us!
+http://www.youtube.com/watchtheguild
+
+Retarded Policeman: The Series
+
+series created by Greg Benson &amp; Kim Evey
+based on an idea by Kim Evey
+directed &amp; edited by Greg Benson
+written by Greg Benson
+starring Fish
+guest starring Felicia Day
+associate producer Scott Perry
+theme song by Greg Benson
+
+More Videos! http://www.mediocrefilms.com
+Follow the Funny! http://twitter.com/mediocrefilms
+In Your Face! http://facebook.com/mediocrefilms</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=fE1KivIjXI8&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/fE1KivIjXI8/default.jpg' height='90' width='120' time='00:00:44.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/fE1KivIjXI8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/fE1KivIjXI8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/fE1KivIjXI8/1.jpg' height='90' width='120' time='00:00:22.250' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/fE1KivIjXI8/2.jpg' height='90' width='120' time='00:00:44.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/fE1KivIjXI8/3.jpg' height='90' width='120' time='00:01:06.750' yt:name='end'/><media:title type='plain'>Retarded Policeman #7.5: Fish - with Felicia Day of The Guild</media:title><yt:duration seconds='89'/><yt:uploaded>2008-04-01T06:22:29.000Z</yt:uploaded><yt:uploaderId>UCUQYeJ6D3qDlQkMboh-8-xw</yt:uploaderId><yt:videoid>fE1KivIjXI8</yt:videoid></media:group><gd:rating average='4.0840917' max='5' min='1' numRaters='11975' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='3162912'/><yt:rating numDislikes='2742' numLikes='9233'/></entry>

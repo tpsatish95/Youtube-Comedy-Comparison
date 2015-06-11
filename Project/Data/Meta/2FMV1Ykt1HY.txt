@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DEQBSX47eCp7I2A9XRRVEk8.&quot;'><id>tag:youtube.com,2008:video:2FMV1Ykt1HY</id><published>2011-02-08T15:57:05.000Z</published><updated>2015-03-13T05:59:18.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Cancion Skyrim [Spanish Fandub (BaxaTV)] + Letra</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/2FMV1Ykt1HY?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=2FMV1Ykt1HY&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/2FMV1Ykt1HY/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=2FMV1Ykt1HY'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/Km0FT_KddiBh-J18hImFYA?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/2FMV1Ykt1HY?v=2'/><author><name>Thadah D. Denyse</name><uri>https://gdata.youtube.com/feeds/api/users/Thadah2</uri><yt:userId>Km0FT_KddiBh-J18hImFYA</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/2FMV1Ykt1HY/comments?v=2' countHint='71'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/2FMV1Ykt1HY?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='43' yt:format='5'/><media:content url='rtsp://r3---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQl21C2J1RVT2BMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='43' yt:format='1'/><media:content url='rtsp://r3---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQl21C2J1RVT2BMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='43' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Thadah D. Denyse'>thadah2</media:credit><media:description type='plain'>Creado originalmente por Harry Partridge:
+
+http://www.youtube.com/user/HarryPartridge
+
+Doblado originalmente por: 
+Enrique Colinet (Baxayaun): http://www.youtube.com/user/BaxaTV
+Jorge Cabanes: http://www.youtube.com/user/DoblajesSV
+
+Podéis descargar la canción siguiendo este link:
+http://dl.dropbox.com/u/804012/Canciones/Skyrim%20-%20BaxaTV.mp3
+http://www.mediafire.com/?x76kr309x9h8b3h
+
+Aquí tenéis la letra de la canción (ADAPTADA):
+
+¡Puede ser, creo que si!
+¡Forjado por un Dios!
+
+Creo ver, ante mí, un
+nuevo Elder Scrolls.
+
+Marcho ya, a realizar
+hazañas a tutiplén.
+
+Chao mamá, chao papá
+y chao al sexo también. 
+
+Digo adiós a Azeroth, hasta nunca Hyrule
+se acabó Albión, no es un ultimatum.
+
+Juegos, no quiero más,
+no me quiero mentir,
+
+¡Cuando empiece mi cruzada
+en Tierra de Skyrim!
+
+Copyright: Enrique Colinet, Harry Partridge y Bethesda Softworks (ZeniMax Media)</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=2FMV1Ykt1HY&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/2FMV1Ykt1HY/default.jpg' height='90' width='120' time='00:00:21.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/2FMV1Ykt1HY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/2FMV1Ykt1HY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/2FMV1Ykt1HY/1.jpg' height='90' width='120' time='00:00:10.750' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/2FMV1Ykt1HY/2.jpg' height='90' width='120' time='00:00:21.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/2FMV1Ykt1HY/3.jpg' height='90' width='120' time='00:00:32.250' yt:name='end'/><media:title type='plain'>Cancion Skyrim [Spanish Fandub (BaxaTV)] + Letra</media:title><yt:duration seconds='43'/><yt:uploaded>2011-02-08T15:57:05.000Z</yt:uploaded><yt:uploaderId>UCKm0FT_KddiBh-J18hImFYA</yt:uploaderId><yt:videoid>2FMV1Ykt1HY</yt:videoid></media:group><gd:rating average='4.776699' max='5' min='1' numRaters='412' rel='http://schemas.google.com/g/2005#overall'/><yt:recorded>2011-02-08</yt:recorded><yt:statistics favoriteCount='0' viewCount='53431'/><yt:rating numDislikes='23' numLikes='389'/></entry>

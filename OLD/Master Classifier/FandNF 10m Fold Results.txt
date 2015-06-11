@@ -1,0 +1,3043 @@
+10520
+sklearn.cross_validation.StratifiedKFold(labels=[1 1 2 ..., 2 1 2], n_folds=10, shuffle=True, random_state=None)
+TRAIN: [    0     1     2 ..., 10517 10518 10519] TEST: [    5     8    11 ..., 10459 10505 10510]
+data loaded
+9467 documents - 9.949MB (training set)
+1053 documents - 1.133MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.385193s at 2.939MB/s
+n_samples: 9467, n_features: 56241
+
+Extracting features from the test data using the same vectorizer
+done in 0.396023s at 2.861MB/s
+n_samples: 1053, n_features: 56241
+
+Extracting3000 best features by a chi-squared test
+done in 0.130008s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.139s
+test time:  0.000s
+accuracy:   0.599
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.63      0.37      0.46       497
+          2       0.59      0.81      0.68       556
+
+avg / total       0.61      0.60      0.58      1053
+
+confusion matrix:
+[[182 315]
+ [107 449]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.160s
+test time:  0.001s
+accuracy:   0.557
+dimensionality: 3000
+density: 0.922667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.53      0.58      0.55       497
+          2       0.59      0.54      0.56       556
+
+avg / total       0.56      0.56      0.56      1053
+
+confusion matrix:
+[[286 211]
+ [256 300]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.221s
+test time:  0.000s
+accuracy:   0.596
+dimensionality: 3000
+density: 0.948333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.57      0.61      0.59       497
+          2       0.63      0.59      0.61       556
+
+avg / total       0.60      0.60      0.60      1053
+
+confusion matrix:
+[[301 196]
+ [229 327]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.385s
+test time:  0.001s
+accuracy:   0.669
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.59      0.63       497
+          2       0.67      0.74      0.70       556
+
+avg / total       0.67      0.67      0.67      1053
+
+confusion matrix:
+[[294 203]
+ [146 410]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.180s
+test time:  0.000s
+accuracy:   0.699
+dimensionality: 3000
+density: 0.937667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.63      0.66       497
+          2       0.70      0.76      0.73       556
+
+avg / total       0.70      0.70      0.70      1053
+
+confusion matrix:
+[[313 184]
+ [133 423]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.327s
+test time:  0.000s
+accuracy:   0.660
+dimensionality: 3000
+density: 0.542667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.60      0.63       497
+          2       0.67      0.71      0.69       556
+
+avg / total       0.66      0.66      0.66      1053
+
+confusion matrix:
+[[299 198]
+ [160 396]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.661s
+test time:  0.001s
+accuracy:   0.689
+dimensionality: 3000
+density: 0.251667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.61      0.65       497
+          2       0.68      0.76      0.72       556
+
+avg / total       0.69      0.69      0.69      1053
+
+confusion matrix:
+[[301 196]
+ [132 424]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.706s
+test time:  0.001s
+accuracy:   0.698
+dimensionality: 3000
+density: 0.827667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.63      0.66       497
+          2       0.70      0.76      0.73       556
+
+avg / total       0.70      0.70      0.70      1053
+
+confusion matrix:
+[[312 185]
+ [133 423]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.055s
+test time:  0.001s
+accuracy:   0.701
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.65      0.67       497
+          2       0.70      0.75      0.73       556
+
+avg / total       0.70      0.70      0.70      1053
+
+confusion matrix:
+[[322 175]
+ [140 416]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.013s
+test time:  0.001s
+accuracy:   0.585
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.26      0.37       497
+          2       0.57      0.88      0.69       556
+
+avg / total       0.61      0.58      0.54      1053
+
+confusion matrix:
+[[127 370]
+ [ 67 489]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.029s
+test time:  0.004s
+accuracy:   0.699
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.69      0.68       497
+          2       0.72      0.71      0.71       556
+
+avg / total       0.70      0.70      0.70      1053
+
+confusion matrix:
+[[341 156]
+ [161 395]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.493s
+test time:  0.007s
+accuracy:   0.667
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.60      0.63       497
+          2       0.67      0.73      0.70       556
+
+avg / total       0.67      0.67      0.67      1053
+
+confusion matrix:
+[[297 200]
+ [151 405]]
+
+TRAIN: [    1     2     3 ..., 10517 10518 10519] TEST: [    0    17    23 ..., 10469 10497 10511]
+data loaded
+9468 documents - 10.022MB (training set)
+1052 documents - 1.059MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.572204s at 2.806MB/s
+n_samples: 9468, n_features: 56301
+
+Extracting features from the test data using the same vectorizer
+done in 0.347020s at 3.053MB/s
+n_samples: 1052, n_features: 56301
+
+Extracting3000 best features by a chi-squared test
+done in 0.124008s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.062s
+test time:  0.000s
+accuracy:   0.619
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.40      0.50       497
+          2       0.60      0.81      0.69       555
+
+avg / total       0.63      0.62      0.60      1052
+
+confusion matrix:
+[[201 296]
+ [105 450]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.111s
+test time:  0.000s
+accuracy:   0.576
+dimensionality: 3000
+density: 0.933667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.55      0.60      0.57       497
+          2       0.61      0.55      0.58       555
+
+avg / total       0.58      0.58      0.58      1052
+
+confusion matrix:
+[[298 199]
+ [247 308]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.222s
+test time:  0.000s
+accuracy:   0.610
+dimensionality: 3000
+density: 0.950333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.59      0.59      0.59       497
+          2       0.63      0.63      0.63       555
+
+avg / total       0.61      0.61      0.61      1052
+
+confusion matrix:
+[[293 204]
+ [206 349]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.237s
+test time:  0.000s
+accuracy:   0.689
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.62      0.65       497
+          2       0.69      0.75      0.72       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[310 187]
+ [140 415]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.174s
+test time:  0.001s
+accuracy:   0.698
+dimensionality: 3000
+density: 0.936000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.64      0.67       497
+          2       0.70      0.75      0.72       555
+
+avg / total       0.70      0.70      0.70      1052
+
+confusion matrix:
+[[316 181]
+ [137 418]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.315s
+test time:  0.000s
+accuracy:   0.684
+dimensionality: 3000
+density: 0.543333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.64      0.66       497
+          2       0.69      0.72      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[319 178]
+ [154 401]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.669s
+test time:  0.000s
+accuracy:   0.683
+dimensionality: 3000
+density: 0.256333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.61      0.65       497
+          2       0.68      0.75      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[304 193]
+ [140 415]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.659s
+test time:  0.000s
+accuracy:   0.698
+dimensionality: 3000
+density: 0.826333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.64      0.67       497
+          2       0.70      0.75      0.72       555
+
+avg / total       0.70      0.70      0.70      1052
+
+confusion matrix:
+[[318 179]
+ [139 416]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.045s
+test time:  0.001s
+accuracy:   0.680
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.66      0.66       497
+          2       0.69      0.70      0.70       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[326 171]
+ [166 389]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.010s
+test time:  0.000s
+accuracy:   0.566
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.58      0.28      0.38       497
+          2       0.56      0.82      0.67       555
+
+avg / total       0.57      0.57      0.53      1052
+
+confusion matrix:
+[[140 357]
+ [100 455]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.021s
+test time:  0.003s
+accuracy:   0.688
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.71      0.68       497
+          2       0.72      0.67      0.69       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[354 143]
+ [185 370]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.547s
+test time:  0.007s
+accuracy:   0.684
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.63      0.65       497
+          2       0.69      0.74      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[312 185]
+ [147 408]]
+
+TRAIN: [    0     1     4 ..., 10517 10518 10519] TEST: [    2     3    37 ..., 10508 10509 10513]
+data loaded
+9468 documents - 9.970MB (training set)
+1052 documents - 1.112MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.354192s at 2.972MB/s
+n_samples: 9468, n_features: 56267
+
+Extracting features from the test data using the same vectorizer
+done in 0.377021s at 2.949MB/s
+n_samples: 1052, n_features: 56267
+
+Extracting3000 best features by a chi-squared test
+done in 0.123007s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.056s
+test time:  0.000s
+accuracy:   0.618
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.64      0.43      0.51       497
+          2       0.61      0.79      0.69       555
+
+avg / total       0.62      0.62      0.60      1052
+
+confusion matrix:
+[[212 285]
+ [117 438]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.113s
+test time:  0.000s
+accuracy:   0.579
+dimensionality: 3000
+density: 0.924667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.56      0.48      0.52       497
+          2       0.59      0.67      0.63       555
+
+avg / total       0.58      0.58      0.58      1052
+
+confusion matrix:
+[[238 259]
+ [184 371]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.164s
+test time:  0.001s
+accuracy:   0.603
+dimensionality: 3000
+density: 0.950000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.58      0.55      0.57       497
+          2       0.62      0.65      0.63       555
+
+avg / total       0.60      0.60      0.60      1052
+
+confusion matrix:
+[[272 225]
+ [193 362]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.261s
+test time:  0.000s
+accuracy:   0.667
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.61      0.63       497
+          2       0.67      0.72      0.69       555
+
+avg / total       0.67      0.67      0.67      1052
+
+confusion matrix:
+[[304 193]
+ [157 398]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.144s
+test time:  0.000s
+accuracy:   0.683
+dimensionality: 3000
+density: 0.937667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.63      0.65       497
+          2       0.69      0.74      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[311 186]
+ [147 408]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.314s
+test time:  0.001s
+accuracy:   0.656
+dimensionality: 3000
+density: 0.531000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.64      0.62      0.63       497
+          2       0.67      0.69      0.68       555
+
+avg / total       0.66      0.66      0.66      1052
+
+confusion matrix:
+[[306 191]
+ [171 384]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.668s
+test time:  0.000s
+accuracy:   0.686
+dimensionality: 3000
+density: 0.259333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.63      0.66       497
+          2       0.69      0.74      0.71       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[314 183]
+ [147 408]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.619s
+test time:  0.001s
+accuracy:   0.685
+dimensionality: 3000
+density: 0.822333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.63      0.65       497
+          2       0.69      0.74      0.71       555
+
+avg / total       0.69      0.69      0.68      1052
+
+confusion matrix:
+[[313 184]
+ [147 408]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.040s
+test time:  0.002s
+accuracy:   0.693
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.65      0.67       497
+          2       0.70      0.73      0.71       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[324 173]
+ [150 405]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.012s
+test time:  0.001s
+accuracy:   0.576
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.61      0.28      0.39       497
+          2       0.57      0.84      0.68       555
+
+avg / total       0.59      0.58      0.54      1052
+
+confusion matrix:
+[[140 357]
+ [ 89 466]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.027s
+test time:  0.003s
+accuracy:   0.694
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.69      0.68       497
+          2       0.72      0.70      0.71       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[343 154]
+ [168 387]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.539s
+test time:  0.004s
+accuracy:   0.666
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.62      0.64       497
+          2       0.67      0.71      0.69       555
+
+avg / total       0.67      0.67      0.67      1052
+
+confusion matrix:
+[[307 190]
+ [161 394]]
+
+TRAIN: [    0     1     2 ..., 10516 10518 10519] TEST: [   15    57    62 ..., 10504 10515 10517]
+data loaded
+9468 documents - 9.991MB (training set)
+1052 documents - 1.091MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.526202s at 2.833MB/s
+n_samples: 9468, n_features: 56491
+
+Extracting features from the test data using the same vectorizer
+done in 0.353020s at 3.091MB/s
+n_samples: 1052, n_features: 56491
+
+Extracting3000 best features by a chi-squared test
+done in 0.124007s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.135s
+test time:  0.000s
+accuracy:   0.606
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.64      0.39      0.48       497
+          2       0.59      0.80      0.68       555
+
+avg / total       0.61      0.61      0.59      1052
+
+confusion matrix:
+[[193 304]
+ [110 445]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.097s
+test time:  0.000s
+accuracy:   0.619
+dimensionality: 3000
+density: 0.921000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.61      0.53      0.57       497
+          2       0.62      0.70      0.66       555
+
+avg / total       0.62      0.62      0.62      1052
+
+confusion matrix:
+[[264 233]
+ [168 387]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.179s
+test time:  0.001s
+accuracy:   0.607
+dimensionality: 3000
+density: 0.950667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.59      0.54      0.56       497
+          2       0.62      0.67      0.64       555
+
+avg / total       0.61      0.61      0.61      1052
+
+confusion matrix:
+[[267 230]
+ [183 372]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.275s
+test time:  0.000s
+accuracy:   0.649
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.55      0.60       497
+          2       0.65      0.74      0.69       555
+
+avg / total       0.65      0.65      0.65      1052
+
+confusion matrix:
+[[274 223]
+ [146 409]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.148s
+test time:  0.000s
+accuracy:   0.665
+dimensionality: 3000
+density: 0.938000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.59      0.62       497
+          2       0.67      0.73      0.70       555
+
+avg / total       0.67      0.67      0.66      1052
+
+confusion matrix:
+[[293 204]
+ [148 407]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.268s
+test time:  0.000s
+accuracy:   0.640
+dimensionality: 3000
+density: 0.533667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.64      0.55      0.59       497
+          2       0.64      0.72      0.68       555
+
+avg / total       0.64      0.64      0.64      1052
+
+confusion matrix:
+[[274 223]
+ [156 399]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.618s
+test time:  0.000s
+accuracy:   0.664
+dimensionality: 3000
+density: 0.254000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.59      0.62       497
+          2       0.67      0.73      0.70       555
+
+avg / total       0.66      0.66      0.66      1052
+
+confusion matrix:
+[[294 203]
+ [150 405]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.660s
+test time:  0.001s
+accuracy:   0.668
+dimensionality: 3000
+density: 0.822333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.59      0.63       497
+          2       0.67      0.74      0.70       555
+
+avg / total       0.67      0.67      0.67      1052
+
+confusion matrix:
+[[295 202]
+ [147 408]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.039s
+test time:  0.001s
+accuracy:   0.674
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.63      0.65       497
+          2       0.68      0.71      0.70       555
+
+avg / total       0.67      0.67      0.67      1052
+
+confusion matrix:
+[[315 182]
+ [161 394]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.009s
+test time:  0.000s
+accuracy:   0.563
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.59      0.25      0.35       497
+          2       0.56      0.85      0.67       555
+
+avg / total       0.57      0.56      0.52      1052
+
+confusion matrix:
+[[122 375]
+ [ 85 470]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.020s
+test time:  0.003s
+accuracy:   0.686
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.69      0.67       497
+          2       0.71      0.68      0.70       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[342 155]
+ [175 380]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.556s
+test time:  0.005s
+accuracy:   0.643
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.64      0.55      0.59       497
+          2       0.64      0.72      0.68       555
+
+avg / total       0.64      0.64      0.64      1052
+
+confusion matrix:
+[[275 222]
+ [154 401]]
+
+TRAIN: [    0     1     2 ..., 10517 10518 10519] TEST: [    4     9    27 ..., 10475 10499 10503]
+data loaded
+9468 documents - 9.924MB (training set)
+1052 documents - 1.157MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.379193s at 2.937MB/s
+n_samples: 9468, n_features: 56397
+
+Extracting features from the test data using the same vectorizer
+done in 0.405023s at 2.858MB/s
+n_samples: 1052, n_features: 56397
+
+Extracting3000 best features by a chi-squared test
+done in 0.122007s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.044s
+test time:  0.001s
+accuracy:   0.581
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.60      0.34      0.44       497
+          2       0.57      0.79      0.67       555
+
+avg / total       0.59      0.58      0.56      1052
+
+confusion matrix:
+[[170 327]
+ [114 441]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.153s
+test time:  0.000s
+accuracy:   0.548
+dimensionality: 3000
+density: 0.926667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.52      0.51      0.52       497
+          2       0.57      0.58      0.58       555
+
+avg / total       0.55      0.55      0.55      1052
+
+confusion matrix:
+[[255 242]
+ [233 322]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.181s
+test time:  0.001s
+accuracy:   0.594
+dimensionality: 3000
+density: 0.945333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.57      0.55      0.56       497
+          2       0.61      0.63      0.62       555
+
+avg / total       0.59      0.59      0.59      1052
+
+confusion matrix:
+[[273 224]
+ [203 352]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.260s
+test time:  0.000s
+accuracy:   0.644
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.64      0.55      0.59       497
+          2       0.64      0.73      0.68       555
+
+avg / total       0.64      0.64      0.64      1052
+
+confusion matrix:
+[[274 223]
+ [151 404]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.172s
+test time:  0.000s
+accuracy:   0.683
+dimensionality: 3000
+density: 0.937000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.57      0.63       497
+          2       0.67      0.78      0.72       555
+
+avg / total       0.69      0.68      0.68      1052
+
+confusion matrix:
+[[284 213]
+ [121 434]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.268s
+test time:  0.001s
+accuracy:   0.638
+dimensionality: 3000
+density: 0.545667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.63      0.56      0.59       497
+          2       0.64      0.71      0.67       555
+
+avg / total       0.64      0.64      0.64      1052
+
+confusion matrix:
+[[278 219]
+ [162 393]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.724s
+test time:  0.001s
+accuracy:   0.669
+dimensionality: 3000
+density: 0.263333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.55      0.61       497
+          2       0.66      0.77      0.71       555
+
+avg / total       0.67      0.67      0.66      1052
+
+confusion matrix:
+[[275 222]
+ [126 429]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.650s
+test time:  0.001s
+accuracy:   0.684
+dimensionality: 3000
+density: 0.822000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.57      0.63       497
+          2       0.67      0.78      0.72       555
+
+avg / total       0.69      0.68      0.68      1052
+
+confusion matrix:
+[[285 212]
+ [120 435]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.083s
+test time:  0.038s
+accuracy:   0.689
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.61      0.65       497
+          2       0.68      0.76      0.72       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[301 196]
+ [131 424]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.012s
+test time:  0.002s
+accuracy:   0.589
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.26      0.38       497
+          2       0.57      0.88      0.69       555
+
+avg / total       0.62      0.59      0.54      1052
+
+confusion matrix:
+[[131 366]
+ [ 66 489]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.027s
+test time:  0.004s
+accuracy:   0.688
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.65      0.66       497
+          2       0.70      0.72      0.71       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[324 173]
+ [155 400]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.556s
+test time:  0.005s
+accuracy:   0.649
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.56      0.60       497
+          2       0.65      0.73      0.69       555
+
+avg / total       0.65      0.65      0.65      1052
+
+confusion matrix:
+[[280 217]
+ [152 403]]
+
+TRAIN: [    0     1     2 ..., 10517 10518 10519] TEST: [   20    21    31 ..., 10495 10496 10512]
+data loaded
+9468 documents - 9.958MB (training set)
+1052 documents - 1.124MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.381194s at 2.945MB/s
+n_samples: 9468, n_features: 56389
+
+Extracting features from the test data using the same vectorizer
+done in 0.367021s at 3.063MB/s
+n_samples: 1052, n_features: 56389
+
+Extracting3000 best features by a chi-squared test
+done in 0.124007s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.157s
+test time:  0.001s
+accuracy:   0.630
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.44      0.53       497
+          2       0.61      0.80      0.70       555
+
+avg / total       0.64      0.63      0.62      1052
+
+confusion matrix:
+[[217 280]
+ [109 446]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.150s
+test time:  0.000s
+accuracy:   0.567
+dimensionality: 3000
+density: 0.922333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.54      0.59      0.56       497
+          2       0.60      0.55      0.57       555
+
+avg / total       0.57      0.57      0.57      1052
+
+confusion matrix:
+[[292 205]
+ [251 304]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.178s
+test time:  0.001s
+accuracy:   0.624
+dimensionality: 3000
+density: 0.949333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.60      0.61      0.60       497
+          2       0.64      0.64      0.64       555
+
+avg / total       0.62      0.62      0.62      1052
+
+confusion matrix:
+[[301 196]
+ [200 355]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.260s
+test time:  0.001s
+accuracy:   0.664
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.62      0.63       497
+          2       0.67      0.71      0.69       555
+
+avg / total       0.66      0.66      0.66      1052
+
+confusion matrix:
+[[306 191]
+ [162 393]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.159s
+test time:  0.001s
+accuracy:   0.681
+dimensionality: 3000
+density: 0.936667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.61      0.64       497
+          2       0.68      0.74      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[304 193]
+ [143 412]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.310s
+test time:  0.000s
+accuracy:   0.660
+dimensionality: 3000
+density: 0.537000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.61      0.63       497
+          2       0.67      0.70      0.69       555
+
+avg / total       0.66      0.66      0.66      1052
+
+confusion matrix:
+[[304 193]
+ [165 390]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.661s
+test time:  0.000s
+accuracy:   0.687
+dimensionality: 3000
+density: 0.257667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.61      0.65       497
+          2       0.68      0.76      0.72       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[303 194]
+ [135 420]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.626s
+test time:  0.001s
+accuracy:   0.683
+dimensionality: 3000
+density: 0.821333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.61      0.65       497
+          2       0.68      0.75      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[305 192]
+ [141 414]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.056s
+test time:  0.002s
+accuracy:   0.688
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.64      0.66       497
+          2       0.69      0.73      0.71       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[319 178]
+ [150 405]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.012s
+test time:  0.001s
+accuracy:   0.598
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.31      0.42       497
+          2       0.58      0.86      0.69       555
+
+avg / total       0.62      0.60      0.56      1052
+
+confusion matrix:
+[[153 344]
+ [ 79 476]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.029s
+test time:  0.003s
+accuracy:   0.701
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.69      0.68       497
+          2       0.72      0.71      0.72       555
+
+avg / total       0.70      0.70      0.70      1052
+
+confusion matrix:
+[[341 156]
+ [159 396]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.492s
+test time:  0.007s
+accuracy:   0.670
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.62      0.64       497
+          2       0.68      0.71      0.69       555
+
+avg / total       0.67      0.67      0.67      1052
+
+confusion matrix:
+[[310 187]
+ [160 395]]
+
+TRAIN: [    0     1     2 ..., 10516 10517 10519] TEST: [   13    25    26 ..., 10501 10502 10518]
+data loaded
+9468 documents - 9.984MB (training set)
+1052 documents - 1.098MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.420196s at 2.919MB/s
+n_samples: 9468, n_features: 56165
+
+Extracting features from the test data using the same vectorizer
+done in 0.364021s at 3.016MB/s
+n_samples: 1052, n_features: 56165
+
+Extracting3000 best features by a chi-squared test
+done in 0.125008s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.082s
+test time:  0.001s
+accuracy:   0.604
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.63      0.40      0.49       497
+          2       0.59      0.79      0.68       555
+
+avg / total       0.61      0.60      0.59      1052
+
+confusion matrix:
+[[197 300]
+ [117 438]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.092s
+test time:  0.001s
+accuracy:   0.589
+dimensionality: 3000
+density: 0.920667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.58      0.49      0.53       497
+          2       0.60      0.68      0.64       555
+
+avg / total       0.59      0.59      0.59      1052
+
+confusion matrix:
+[[244 253]
+ [179 376]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.181s
+test time:  0.000s
+accuracy:   0.625
+dimensionality: 3000
+density: 0.948000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.60      0.60      0.60       497
+          2       0.64      0.65      0.65       555
+
+avg / total       0.63      0.63      0.63      1052
+
+confusion matrix:
+[[298 199]
+ [195 360]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.293s
+test time:  0.000s
+accuracy:   0.670
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.61      0.64       497
+          2       0.67      0.73      0.70       555
+
+avg / total       0.67      0.67      0.67      1052
+
+confusion matrix:
+[[302 195]
+ [152 403]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.144s
+test time:  0.000s
+accuracy:   0.685
+dimensionality: 3000
+density: 0.933667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.61      0.65       497
+          2       0.68      0.75      0.72       555
+
+avg / total       0.69      0.69      0.68      1052
+
+confusion matrix:
+[[303 194]
+ [137 418]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.319s
+test time:  0.000s
+accuracy:   0.658
+dimensionality: 3000
+density: 0.530333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.60      0.62       497
+          2       0.67      0.71      0.69       555
+
+avg / total       0.66      0.66      0.66      1052
+
+confusion matrix:
+[[300 197]
+ [163 392]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.690s
+test time:  0.000s
+accuracy:   0.680
+dimensionality: 3000
+density: 0.261333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.60      0.64       497
+          2       0.68      0.75      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[296 201]
+ [136 419]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.702s
+test time:  0.001s
+accuracy:   0.685
+dimensionality: 3000
+density: 0.824000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.61      0.65       497
+          2       0.68      0.75      0.72       555
+
+avg / total       0.69      0.69      0.68      1052
+
+confusion matrix:
+[[304 193]
+ [138 417]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.040s
+test time:  0.002s
+accuracy:   0.668
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.63      0.64       497
+          2       0.68      0.70      0.69       555
+
+avg / total       0.67      0.67      0.67      1052
+
+confusion matrix:
+[[314 183]
+ [166 389]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.012s
+test time:  0.001s
+accuracy:   0.577
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.62      0.27      0.38       497
+          2       0.57      0.85      0.68       555
+
+avg / total       0.59      0.58      0.54      1052
+
+confusion matrix:
+[[135 362]
+ [ 83 472]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.027s
+test time:  0.002s
+accuracy:   0.688
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.68      0.67       497
+          2       0.71      0.70      0.70       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[338 159]
+ [169 386]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.487s
+test time:  0.005s
+accuracy:   0.656
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.59      0.62       497
+          2       0.66      0.71      0.69       555
+
+avg / total       0.66      0.66      0.65      1052
+
+confusion matrix:
+[[294 203]
+ [159 396]]
+
+TRAIN: [    0     2     3 ..., 10515 10517 10518] TEST: [    1     6     7 ..., 10507 10516 10519]
+data loaded
+9468 documents - 9.978MB (training set)
+1052 documents - 1.104MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.435196s at 2.905MB/s
+n_samples: 9468, n_features: 56706
+
+Extracting features from the test data using the same vectorizer
+done in 0.362021s at 3.049MB/s
+n_samples: 1052, n_features: 56706
+
+Extracting3000 best features by a chi-squared test
+done in 0.125007s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.034s
+test time:  0.000s
+accuracy:   0.610
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.64      0.40      0.49       497
+          2       0.60      0.80      0.68       555
+
+avg / total       0.62      0.61      0.59      1052
+
+confusion matrix:
+[[198 299]
+ [111 444]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.103s
+test time:  0.001s
+accuracy:   0.588
+dimensionality: 3000
+density: 0.931000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.57      0.51      0.54       497
+          2       0.60      0.66      0.63       555
+
+avg / total       0.59      0.59      0.59      1052
+
+confusion matrix:
+[[254 243]
+ [190 365]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.189s
+test time:  0.000s
+accuracy:   0.602
+dimensionality: 3000
+density: 0.953000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.58      0.59      0.58       497
+          2       0.62      0.61      0.62       555
+
+avg / total       0.60      0.60      0.60      1052
+
+confusion matrix:
+[[293 204]
+ [215 340]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.255s
+test time:  0.000s
+accuracy:   0.654
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.58      0.61       497
+          2       0.66      0.72      0.69       555
+
+avg / total       0.65      0.65      0.65      1052
+
+confusion matrix:
+[[287 210]
+ [154 401]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.173s
+test time:  0.001s
+accuracy:   0.683
+dimensionality: 3000
+density: 0.938000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.61      0.64       497
+          2       0.68      0.75      0.72       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[301 196]
+ [137 418]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.305s
+test time:  0.001s
+accuracy:   0.651
+dimensionality: 3000
+density: 0.532333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.65      0.58      0.61       497
+          2       0.66      0.72      0.68       555
+
+avg / total       0.65      0.65      0.65      1052
+
+confusion matrix:
+[[288 209]
+ [158 397]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.630s
+test time:  0.001s
+accuracy:   0.685
+dimensionality: 3000
+density: 0.256000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.61      0.65       497
+          2       0.68      0.75      0.72       555
+
+avg / total       0.69      0.69      0.68      1052
+
+confusion matrix:
+[[303 194]
+ [137 418]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.665s
+test time:  0.001s
+accuracy:   0.684
+dimensionality: 3000
+density: 0.823667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.61      0.65       497
+          2       0.68      0.75      0.72       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[303 194]
+ [138 417]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.043s
+test time:  0.002s
+accuracy:   0.679
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.61      0.64       497
+          2       0.68      0.74      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[305 192]
+ [146 409]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.012s
+test time:  0.001s
+accuracy:   0.574
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.61      0.27      0.37       497
+          2       0.56      0.85      0.68       555
+
+avg / total       0.59      0.57      0.53      1052
+
+confusion matrix:
+[[132 365]
+ [ 83 472]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.027s
+test time:  0.003s
+accuracy:   0.689
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.68      0.67       497
+          2       0.71      0.70      0.70       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[336 161]
+ [166 389]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.512s
+test time:  0.004s
+accuracy:   0.657
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.58      0.61       497
+          2       0.66      0.73      0.69       555
+
+avg / total       0.66      0.66      0.65      1052
+
+confusion matrix:
+[[287 210]
+ [151 404]]
+
+TRAIN: [    0     1     2 ..., 10517 10518 10519] TEST: [   12    14    16 ..., 10489 10491 10506]
+data loaded
+9468 documents - 10.001MB (training set)
+1052 documents - 1.081MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.447198s at 2.901MB/s
+n_samples: 9468, n_features: 56389
+
+Extracting features from the test data using the same vectorizer
+done in 0.378021s at 2.860MB/s
+n_samples: 1052, n_features: 56389
+
+Extracting3000 best features by a chi-squared test
+done in 0.130008s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.049s
+test time:  0.001s
+accuracy:   0.596
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.63      0.36      0.46       497
+          2       0.58      0.81      0.68       555
+
+avg / total       0.60      0.60      0.57      1052
+
+confusion matrix:
+[[178 319]
+ [106 449]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.113s
+test time:  0.001s
+accuracy:   0.588
+dimensionality: 3000
+density: 0.927667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.57      0.56      0.56       497
+          2       0.61      0.61      0.61       555
+
+avg / total       0.59      0.59      0.59      1052
+
+confusion matrix:
+[[278 219]
+ [214 341]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.206s
+test time:  0.000s
+accuracy:   0.614
+dimensionality: 3000
+density: 0.954333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.60      0.57      0.58       497
+          2       0.63      0.65      0.64       555
+
+avg / total       0.61      0.61      0.61      1052
+
+confusion matrix:
+[[283 214]
+ [192 363]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.246s
+test time:  0.001s
+accuracy:   0.663
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.57      0.62       497
+          2       0.66      0.75      0.70       555
+
+avg / total       0.66      0.66      0.66      1052
+
+confusion matrix:
+[[284 213]
+ [141 414]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.152s
+test time:  0.001s
+accuracy:   0.689
+dimensionality: 3000
+density: 0.936000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.61      0.65       497
+          2       0.68      0.76      0.72       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[302 195]
+ [132 423]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.318s
+test time:  0.000s
+accuracy:   0.665
+dimensionality: 3000
+density: 0.532333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.59      0.63       497
+          2       0.67      0.73      0.70       555
+
+avg / total       0.67      0.67      0.66      1052
+
+confusion matrix:
+[[294 203]
+ [149 406]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.671s
+test time:  0.000s
+accuracy:   0.683
+dimensionality: 3000
+density: 0.253667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.60      0.64       497
+          2       0.68      0.76      0.72       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[297 200]
+ [133 422]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.601s
+test time:  0.000s
+accuracy:   0.693
+dimensionality: 3000
+density: 0.828000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.62      0.65       497
+          2       0.69      0.76      0.72       555
+
+avg / total       0.69      0.69      0.69      1052
+
+confusion matrix:
+[[306 191]
+ [132 423]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.064s
+test time:  0.002s
+accuracy:   0.682
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.64      0.65       497
+          2       0.69      0.72      0.71       555
+
+avg / total       0.68      0.68      0.68      1052
+
+confusion matrix:
+[[316 181]
+ [154 401]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.008s
+test time:  0.001s
+accuracy:   0.578
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.63      0.26      0.37       497
+          2       0.57      0.86      0.68       555
+
+avg / total       0.60      0.58      0.53      1052
+
+confusion matrix:
+[[129 368]
+ [ 76 479]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.022s
+test time:  0.004s
+accuracy:   0.697
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.68      0.69      0.68       497
+          2       0.72      0.70      0.71       555
+
+avg / total       0.70      0.70      0.70      1052
+
+confusion matrix:
+[[343 154]
+ [165 390]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.493s
+test time:  0.006s
+accuracy:   0.665
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.67      0.59      0.62       497
+          2       0.67      0.74      0.70       555
+
+avg / total       0.67      0.67      0.66      1052
+
+confusion matrix:
+[[292 205]
+ [147 408]]
+
+TRAIN: [    0     1     2 ..., 10517 10518 10519] TEST: [   29    34    55 ..., 10488 10498 10514]
+data loaded
+9469 documents - 9.960MB (training set)
+1051 documents - 1.122MB (test set)
+2 categories
+
+Extracting features from the training data using a sparse vectorizer
+done in 3.349192s at 2.974MB/s
+n_samples: 9469, n_features: 56679
+
+Extracting features from the test data using the same vectorizer
+done in 0.378022s at 2.967MB/s
+n_samples: 1051, n_features: 56679
+
+Extracting3000 best features by a chi-squared test
+done in 0.121007s
+
+================================================================================
+Ridge Classifier
+________________________________________________________________________________
+Training: 
+RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+        max_iter=None, normalize=False, solver='lsqr', tol=0.01)
+train time: 0.058s
+test time:  0.001s
+accuracy:   0.613
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.66      0.38      0.48       496
+          2       0.60      0.82      0.69       555
+
+avg / total       0.62      0.61      0.59      1051
+
+confusion matrix:
+[[187 309]
+ [ 98 457]]
+
+================================================================================
+Perceptron
+________________________________________________________________________________
+Training: 
+Perceptron(alpha=0.0001, class_weight=None, eta0=1.0, fit_intercept=True,
+      n_iter=50, n_jobs=1, penalty=None, random_state=0, shuffle=False,
+      verbose=0, warm_start=False)
+train time: 0.099s
+test time:  0.000s
+accuracy:   0.622
+dimensionality: 3000
+density: 0.920000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.61      0.54      0.58       496
+          2       0.63      0.69      0.66       555
+
+avg / total       0.62      0.62      0.62      1051
+
+confusion matrix:
+[[270 226]
+ [171 384]]
+
+================================================================================
+Passive-Aggressive
+________________________________________________________________________________
+Training: 
+PassiveAggressiveClassifier(C=1.0, fit_intercept=True, loss='hinge',
+              n_iter=50, n_jobs=1, random_state=None, shuffle=False,
+              verbose=0, warm_start=False)
+train time: 0.192s
+test time:  0.000s
+accuracy:   0.645
+dimensionality: 3000
+density: 0.947333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.64      0.56      0.60       496
+          2       0.65      0.72      0.68       555
+
+avg / total       0.64      0.65      0.64      1051
+
+confusion matrix:
+[[277 219]
+ [154 401]]
+
+================================================================================
+L2 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.212s
+test time:  0.000s
+accuracy:   0.690
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.61      0.65       496
+          2       0.69      0.76      0.72       555
+
+avg / total       0.69      0.69      0.69      1051
+
+confusion matrix:
+[[302 194]
+ [132 423]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l2', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.180s
+test time:  0.000s
+accuracy:   0.705
+dimensionality: 3000
+density: 0.936333
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.72      0.61      0.66       496
+          2       0.69      0.79      0.74       555
+
+avg / total       0.71      0.71      0.70      1051
+
+confusion matrix:
+[[304 192]
+ [118 437]]
+
+================================================================================
+L1 penalty
+________________________________________________________________________________
+Training: 
+LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)
+train time: 0.271s
+test time:  0.002s
+accuracy:   0.684
+dimensionality: 3000
+density: 0.550667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.61      0.65       496
+          2       0.68      0.75      0.71       555
+
+avg / total       0.68      0.68      0.68      1051
+
+confusion matrix:
+[[303 193]
+ [139 416]]
+
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='l1', power_t=0.5,
+       random_state=None, shuffle=False, verbose=0, warm_start=False)
+train time: 0.641s
+test time:  0.001s
+accuracy:   0.702
+dimensionality: 3000
+density: 0.257667
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.72      0.61      0.66       496
+          2       0.69      0.79      0.74       555
+
+avg / total       0.70      0.70      0.70      1051
+
+confusion matrix:
+[[301 195]
+ [118 437]]
+
+================================================================================
+Elastic-Net penalty
+________________________________________________________________________________
+Training: 
+SGDClassifier(alpha=0.0001, class_weight=None, epsilon=0.1, eta0=0.0,
+       fit_intercept=True, l1_ratio=0.15, learning_rate='optimal',
+       loss='hinge', n_iter=50, n_jobs=1, penalty='elasticnet',
+       power_t=0.5, random_state=None, shuffle=False, verbose=0,
+       warm_start=False)
+train time: 0.605s
+test time:  0.001s
+accuracy:   0.705
+dimensionality: 3000
+density: 0.829000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.72      0.61      0.66       496
+          2       0.69      0.79      0.74       555
+
+avg / total       0.71      0.71      0.70      1051
+
+confusion matrix:
+[[303 193]
+ [117 438]]
+
+================================================================================
+NearestCentroid (aka Rocchio classifier)
+________________________________________________________________________________
+Training: 
+NearestCentroid(metric='euclidean', shrink_threshold=None)
+train time: 0.058s
+test time:  0.002s
+accuracy:   0.702
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.64      0.67       496
+          2       0.70      0.76      0.73       555
+
+avg / total       0.70      0.70      0.70      1051
+
+confusion matrix:
+[[316 180]
+ [133 422]]
+
+================================================================================
+Naive Bayes
+________________________________________________________________________________
+Training: 
+MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)
+train time: 0.010s
+test time:  0.001s
+accuracy:   0.575
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.63      0.25      0.35       496
+          2       0.56      0.87      0.68       555
+
+avg / total       0.59      0.57      0.53      1051
+
+confusion matrix:
+[[122 374]
+ [ 73 482]]
+
+________________________________________________________________________________
+Training: 
+BernoulliNB(alpha=0.01, binarize=0.0, class_prior=None, fit_prior=True)
+train time: 0.029s
+test time:  0.003s
+accuracy:   0.718
+dimensionality: 3000
+density: 1.000000
+
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.70      0.71      0.70       496
+          2       0.74      0.73      0.73       555
+
+avg / total       0.72      0.72      0.72      1051
+
+confusion matrix:
+[[352 144]
+ [152 403]]
+
+================================================================================
+LinearSVC with L1-based feature selection
+________________________________________________________________________________
+Training: 
+Pipeline(steps=[('feature_selection', LinearSVC(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l1',
+     random_state=None, tol=0.001, verbose=0)), ('classification', LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='l2', multi_class='ovr', penalty='l2',
+     random_state=None, tol=0.0001, verbose=0))])
+train time: 0.556s
+test time:  0.005s
+accuracy:   0.687
+classification report:
+             precision    recall  f1-score   support
+
+          1       0.69      0.61      0.65       496
+          2       0.69      0.75      0.72       555
+
+avg / total       0.69      0.69      0.69      1051
+
+confusion matrix:
+[[305 191]
+ [138 417]]
+
+[Finished in 79.4s]

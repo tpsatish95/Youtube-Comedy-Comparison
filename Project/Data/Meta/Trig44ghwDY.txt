@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;A0AHRX47eCp7I2A9XRRXFUo.&quot;'><id>tag:youtube.com,2008:video:Trig44ghwDY</id><published>2008-03-13T19:39:09.000Z</published><updated>2015-02-22T04:35:34.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Hunting Elevator (Rémi GAILLARD)</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/Trig44ghwDY?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=Trig44ghwDY&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Trig44ghwDY/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=Trig44ghwDY'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/mPSwsooZq8an7xOLQQhAdw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Trig44ghwDY?v=2'/><author><name>Rémi GAILLARD</name><uri>https://gdata.youtube.com/feeds/api/users/nqtv</uri><yt:userId>mPSwsooZq8an7xOLQQhAdw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/Trig44ghwDY/comments?v=2' countHint='312'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/Trig44ghwDY?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='36' yt:format='5'/><media:content url='rtsp://r3---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQk2wCGI46C4ThMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='36' yt:format='1'/><media:content url='rtsp://r3---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQk2wCGI46C4ThMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='36' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Rémi GAILLARD' yt:type='partner'>nqtv</media:credit><media:description type='plain'>Step into the Hunting Elevator with Rémi GAILLARD. Subscribe for more: http://bit.ly/ouiremi
+
+Rémi Gaillard is world famous for his dangerously funny videos. 
+
+Unafraid of controversy, he has challenged the norms and expectations of online video with his creativity!
+
+From bringing Pacman and Mario Kart to life and playing pranks in animal costumes, to taking on the likes of Ronaldo in a battle of football skills, Rémi has done it all and shows no signs of stopping any time soon - his motto is, after all, "C'est en faisant n'importe quoi qu'on devient n'importe qui"!
+
+One things for sure - once you watch Rémi's videos, you'll never look at an elevator in the same way...
+
+Subscribe for more:
+http://bit.ly/ouiremi
+
+Like on Facebook:
+http://www.facebook.com/gaillardremi
+
+Follow on Twitter:
+http://twitter.com/nqtv
+
+More Rémi:
+http://www.nimportequi.com/
+
+------------------------------------------------
+
+émi Gaillard c'est LE trublion de Youtube, connu dans le monde entier pour ses vidéos complètement dingues.
+
+C'est bien simple : Rémi n' a peur de rien ni de personne et repousse sans cesse les limites de la créativité dans ses vidéos !
+
+De se transformer en Pacman, ou parcourir les rues en Mario Kart, à défier Ronaldo au football, en passant par piéger les gens en costume d'animaux, Rémi à tout fait (ou presque) et il n'est pas prêt de s'arrêter de si tôt - après tout : C'est en faisant n'importe quoi, qu'on devient n'importe qui !
+
+Une chose est sûre - en regardant les vidéos de Rémi, vous ne verrez plus un ascenseur du même oeil...
+
+------------------------------------------------
+
+Rémi Gaillard es mundialmente conocido por sus vídeos peligrosamente
+divertidos.
+
+Gracias a su creatividad y sin miedo a la controversia, ha roto con todas las reglas
+y superado plenamente cualquier expectativa de vídeos on-line.
+
+Rémi lo ha hecho todo: desde llevar a la vida a archiconocidos personajes como
+Pacman y Mario Kart a gastar bromas vestido de distintos animales o imitar a
+Ronaldo en una batalla de habilidades futbolísticas..., y no tiene visos de que parar.
+Al fin y al cabo, su lema es "¡Haz lo que sea y serás quien quieras!" ("C´est en faisant
+n'importe quoi quo'n devient n'importe qui¨!).
+
+Lo que está claro es que una vez vistos los vídeos de Rémi, nunca más volverás a
+pensar en los ascensores de la misma manera...</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=Trig44ghwDY&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/Trig44ghwDY/default.jpg' height='90' width='120' time='00:00:18' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/Trig44ghwDY/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Trig44ghwDY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Trig44ghwDY/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/Trig44ghwDY/1.jpg' height='90' width='120' time='00:00:09' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/Trig44ghwDY/2.jpg' height='90' width='120' time='00:00:18' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/Trig44ghwDY/3.jpg' height='90' width='120' time='00:00:27' yt:name='end'/><media:title type='plain'>Hunting Elevator (Rémi GAILLARD)</media:title><yt:duration seconds='36'/><yt:uploaded>2008-03-13T19:39:09.000Z</yt:uploaded><yt:uploaderId>UCmPSwsooZq8an7xOLQQhAdw</yt:uploaderId><yt:videoid>Trig44ghwDY</yt:videoid></media:group><gd:rating average='4.9464464' max='5' min='1' numRaters='6050' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1485417'/><yt:rating numDislikes='81' numLikes='5969'/></entry>

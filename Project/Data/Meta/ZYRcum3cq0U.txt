@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;A0ECQ347eCp7I2A9XRdXEEg.&quot;'><id>tag:youtube.com,2008:video:ZYRcum3cq0U</id><published>2012-01-29T22:11:09.000Z</published><updated>2014-10-23T10:21:02.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Russian Tarzan Ropeswing Fail</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/ZYRcum3cq0U?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=ZYRcum3cq0U&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ZYRcum3cq0U/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=ZYRcum3cq0U'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/lmmbesFjIzJAp8NQCtt8dQ?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ZYRcum3cq0U?v=2'/><author><name>Break</name><uri>https://gdata.youtube.com/feeds/api/users/break</uri><yt:userId>lmmbesFjIzJAp8NQCtt8dQ</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/ZYRcum3cq0U/comments?v=2' countHint='545'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/ZYRcum3cq0U?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='37' yt:format='5'/><media:content url='rtsp://r2---sn-4g57kued.c.youtube.com/CiILENy73wIaGQlFq9xtulyEZRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='37' yt:format='1'/><media:content url='rtsp://r2---sn-4g57kued.c.youtube.com/CiILENy73wIaGQlFq9xtulyEZRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='37' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Break' yt:type='partner'>break</media:credit><media:description type='plain'>We can't resist this one - "in Soviet Russia, bridge cross you".  Enter to win an iPad just by taking a quick Break survey!  http://brk.to/yBreakSurveyiPad
+
+
+Send in your videos to get $ and be featured: http://brk.to/submit
+
+For the funniest videos breaking online, visit Break.com -http://brk.to/tobreak
+
+More Break approved videos:
+
+Break Originals - http://brk.to/tobreakoriginals
+
+MadeMan.com - http://brk.to/tomademanvideos
+
+GameFront - http://brk.to/toGameFront
+
+Break gets social:
+
+Facebook - http://brk.to/tobreakfacebook
+
+Twitter - http://brk.to/tobreakcomtwitter
+
+
+Break goes mobile:
+
+iPhone / iPad free app - http://brk.to/tobreakappleapp
+
+Android free app - http://brk.to/tobreakandroidapp For licensing inquiries please email us at licensing@break.com</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=ZYRcum3cq0U&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/ZYRcum3cq0U/default.jpg' height='90' width='120' time='00:00:18.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/ZYRcum3cq0U/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/ZYRcum3cq0U/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/ZYRcum3cq0U/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/ZYRcum3cq0U/1.jpg' height='90' width='120' time='00:00:09.250' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/ZYRcum3cq0U/2.jpg' height='90' width='120' time='00:00:18.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/ZYRcum3cq0U/3.jpg' height='90' width='120' time='00:00:27.750' yt:name='end'/><media:title type='plain'>Russian Tarzan Ropeswing Fail</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='37'/><yt:uploaded>2012-01-29T22:11:09.000Z</yt:uploaded><yt:uploaderId>UClmmbesFjIzJAp8NQCtt8dQ</yt:uploaderId><yt:videoid>ZYRcum3cq0U</yt:videoid></media:group><gd:rating average='4.5160403' max='5' min='1' numRaters='1091' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='195391'/><yt:rating numDislikes='132' numLikes='959'/></entry>

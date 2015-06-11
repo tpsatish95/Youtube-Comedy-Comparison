@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DEQCSX47eCp7I2A9XRRXE00.&quot;'><id>tag:youtube.com,2008:video:8mZ7Ynfve1k</id><published>2012-02-03T12:29:29.000Z</published><updated>2015-02-19T00:39:28.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>VG Cats AWNN - #78 Cletus Brand Chocobos</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/8mZ7Ynfve1k?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=8mZ7Ynfve1k&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/8mZ7Ynfve1k/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=8mZ7Ynfve1k'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/pDSakEZ6Jjj1-Yld64r9xw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/8mZ7Ynfve1k?v=2'/><author><name>Omahdon</name><uri>https://gdata.youtube.com/feeds/api/users/Omahdon</uri><yt:userId>pDSakEZ6Jjj1-Yld64r9xw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/8mZ7Ynfve1k/comments?v=2' countHint='138'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/8mZ7Ynfve1k?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='75' yt:format='5'/><media:content url='rtsp://r7---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQlZe-93Yntm8hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='75' yt:format='1'/><media:content url='rtsp://r7---sn-a5m7zu7l.c.youtube.com/CiILENy73wIaGQlZe-93Yntm8hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='75' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Omahdon' yt:type='partner'>omahdon</media:credit><media:description type='plain'>VG Cats Adaptation With No Name - #78 Cletus Brand Chocobos
+
+VG Cats created by Scott Ramsoomair
+http://www.vgcats.com/
+
+Bet you weren't expectng another clip so soon! Unless you did! In which case I may have set audience expectations far too high and thus am in serious trouble when schedule slips inevitably occur! But putting that aside, requests for an adaptation of this particular strip seems to come up a lot. So, after several years worth of delay, here it is! Now stop asking for it. Because it's done. Please. D:
+
+Anyway once again, thanks to Autumn Stroble for reprising her role as Aeris and of course, a whole lot of thanks to Scott Ramsoomair for creating VG Cats! Please don't sue me.
+
+Starring:
+Autumn "autumnarr" Stroble as Aeris
+Edwyn "Omahdon" Tiong as Leo
+
+
+Soundtrack: (in order)
+Final Fantasy 7 - Waltz De Chocobo
+Final Fantasy 7 - Farm Boy
+Final Fantasy 7: Advent Children - Advent: One-Winged Angel
+Final Fantasy 7 - Fiddle De Chocobo
+
+
+Sound Effects:
+Final Fantasy 7
+Final Fantasy 8
+Bone: The Great Cow Race
+Max Payne 2
+Psychonauts
+Rayman - Raving Rabbids
+Soundsnap.com
+Miscellaneous stuff from online
+
+
+Thanks for the listen! And watchin'!</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=8mZ7Ynfve1k&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/8mZ7Ynfve1k/default.jpg' height='90' width='120' time='00:00:37.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/8mZ7Ynfve1k/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/8mZ7Ynfve1k/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/8mZ7Ynfve1k/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/8mZ7Ynfve1k/1.jpg' height='90' width='120' time='00:00:18.750' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/8mZ7Ynfve1k/2.jpg' height='90' width='120' time='00:00:37.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/8mZ7Ynfve1k/3.jpg' height='90' width='120' time='00:00:56.250' yt:name='end'/><media:title type='plain'>VG Cats AWNN - #78 Cletus Brand Chocobos</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='75'/><yt:uploaded>2012-02-03T12:29:29.000Z</yt:uploaded><yt:uploaderId>UCpDSakEZ6Jjj1-Yld64r9xw</yt:uploaderId><yt:videoid>8mZ7Ynfve1k</yt:videoid></media:group><gd:rating average='4.9559054' max='5' min='1' numRaters='635' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='87679'/><yt:rating numDislikes='7' numLikes='628'/></entry>

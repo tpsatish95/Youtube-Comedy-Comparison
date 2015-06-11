@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;Dk8FSH47eCp7I2A9Wh9WEEg.&quot;'><id>tag:youtube.com,2008:video:5trVZ9JtsXA</id><published>2011-11-25T04:36:05.000Z</published><updated>2014-03-17T11:13:39.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Black Friday</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/5trVZ9JtsXA?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=5trVZ9JtsXA&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/5trVZ9JtsXA/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=5trVZ9JtsXA'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/0VfM1P0sUtzYQh4Ns-a75w?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/5trVZ9JtsXA?v=2'/><author><name>Jason Urgo</name><uri>https://gdata.youtube.com/feeds/api/users/Urgo6667</uri><yt:userId>0VfM1P0sUtzYQh4Ns-a75w</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/5trVZ9JtsXA/comments?v=2' countHint='53'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/5trVZ9JtsXA?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='65' yt:format='5'/><media:content url='rtsp://r6---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQlwsW3SZ9Xa5hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='65' yt:format='1'/><media:content url='rtsp://r6---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQlwsW3SZ9Xa5hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='65' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='Jason Urgo' yt:type='partner'>urgo6667</media:credit><media:description type='plain'>It's Black Friday
+
+Are you hitting the stores today?  If so buy me something :)
+
+Urgo
+PO Box 37237
+Raleigh, NC 27627-7237
+
+
+Track your YouTube Stats
+http://SocialBlade.com/youtube
+
+Like me on facebook!
+http://facebook.com/HeyUrgo
+
+Follow me on twitter!
+http://twitter.com/Urgo
+
+Google Plus anyone?
+http://plus.urgo.org
+
+Subscribe to me on YouTube!
+You're already here, just hit subscribe :)
+
+Check out my second channel if you want even more!
+http://YouTube.com/UrgosClips</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=5trVZ9JtsXA&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/5trVZ9JtsXA/default.jpg' height='90' width='120' time='00:00:32.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/5trVZ9JtsXA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/5trVZ9JtsXA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/5trVZ9JtsXA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/5trVZ9JtsXA/1.jpg' height='90' width='120' time='00:00:16.250' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/5trVZ9JtsXA/2.jpg' height='90' width='120' time='00:00:32.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/5trVZ9JtsXA/3.jpg' height='90' width='120' time='00:00:48.750' yt:name='end'/><media:title type='plain'>Black Friday</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='65'/><yt:uploaded>2011-11-25T04:36:05.000Z</yt:uploaded><yt:uploaderId>UC0VfM1P0sUtzYQh4Ns-a75w</yt:uploaderId><yt:videoid>5trVZ9JtsXA</yt:videoid></media:group><gd:rating average='4.36' max='5' min='1' numRaters='25' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='950'/><yt:rating numDislikes='4' numLikes='21'/></entry>

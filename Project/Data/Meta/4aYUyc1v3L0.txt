@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;D0cER347eCp7I2A9XRRRFEU.&quot;'><id>tag:youtube.com,2008:video:4aYUyc1v3L0</id><published>2011-11-27T13:34:00.000Z</published><updated>2015-01-28T22:43:26.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>SILENT BUT DEADLY - J.D.Witherspoon</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/4aYUyc1v3L0?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=4aYUyc1v3L0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/4aYUyc1v3L0/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=4aYUyc1v3L0'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/umWiQfmYoCPtnf_nAXpNYA?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/4aYUyc1v3L0?v=2'/><author><name>J.D. Witherspoon</name><uri>https://gdata.youtube.com/feeds/api/users/WhoisUTV</uri><yt:userId>umWiQfmYoCPtnf_nAXpNYA</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/4aYUyc1v3L0/comments?v=2' countHint='48'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/4aYUyc1v3L0?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='70' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQm93G_NyRSm4RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='70' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu76.c.youtube.com/CiILENy73wIaGQm93G_NyRSm4RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='70' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='J.D. Witherspoon' yt:type='partner'>whoisutv</media:credit><media:description type='plain'>HEY GUYS NEW FACEBOOK FANPAGE I MADE SO YOU CAN SEE ALL MY VIDEOS EASIER LIKE THE PAGE TO BE UPDATED http://www.facebook.com/pages/JD-Witherspoon/317076584986971?ref=tn_tnmn
+
+CLICK the SHARE button above to Tweet this video or SHARE it on your friends FaceBook Thanks 
+
+or CLICK Here I think lol
+ https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Ftwitter.com%2Fabout%2Fresources%2Ftweetbutton&amp;source=tweetbutton&amp;text=Twitter+%2F+Tweet+Button&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4aYUyc1v3L0%26feature%3Dchannel_video_title&amp;via=JDWitherspoon
+
+A new comedy sketch for you guys enjoy 
+
+SUBSCRIBE 2 MY NEW CHANNEL HERE http://www.youtube.com/user/JDWitherspoon
+
+ MY WEBSITE/TUMBLR
+http://jdwitherspoon.tumblr.com/
+
+MY GOOGLE + ACCOUNT
+http://jdwitherspoon.com/Google+
+
+MY MAIN CHANNEL
+http://www.youtube.com/user/WhoisUTV
+
+MY VLOG CHANNEL
+http://www.youtube.com/user/runJDrun
+
+MY FACEBOOK
+http://www.facebook.com/profile.php?r...
+
+MY TWITTER
+http://twitter.com/JDWitherspoon
+
+MY MYSPACE
+http://www.myspace.com/00_johnny</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=4aYUyc1v3L0&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/4aYUyc1v3L0/default.jpg' height='90' width='120' time='00:00:35' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/4aYUyc1v3L0/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/4aYUyc1v3L0/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/4aYUyc1v3L0/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/4aYUyc1v3L0/1.jpg' height='90' width='120' time='00:00:17.500' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/4aYUyc1v3L0/2.jpg' height='90' width='120' time='00:00:35' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/4aYUyc1v3L0/3.jpg' height='90' width='120' time='00:00:52.500' yt:name='end'/><media:title type='plain'>SILENT BUT DEADLY - J.D.Witherspoon</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='70'/><yt:uploaded>2011-11-27T13:34:00.000Z</yt:uploaded><yt:uploaderId>UCumWiQfmYoCPtnf_nAXpNYA</yt:uploaderId><yt:videoid>4aYUyc1v3L0</yt:videoid></media:group><gd:rating average='4.857143' max='5' min='1' numRaters='336' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='10990'/><yt:rating numDislikes='12' numLikes='324'/></entry>

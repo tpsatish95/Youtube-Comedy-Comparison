@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:georss='http://www.georss.org/georss' xmlns:gml='http://www.opengis.net/gml' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CUcMQX47eCp7I2A9XRRWE04.&quot;'><id>tag:youtube.com,2008:video:q6imEjOAxb8</id><published>2011-10-09T14:14:29.000Z</published><updated>2015-03-02T21:51:20.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Halloween In The Dark - They're Coming - SunBailante Party</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/q6imEjOAxb8?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=q6imEjOAxb8&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/q6imEjOAxb8/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=q6imEjOAxb8'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/WAUxcbiymuFcq6pNB27OYg?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/q6imEjOAxb8?v=2'/><author><name>SunBailante</name><uri>https://gdata.youtube.com/feeds/api/users/SunBailante</uri><yt:userId>WAUxcbiymuFcq6pNB27OYg</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/q6imEjOAxb8/comments?v=2' countHint='0'/></gd:comments><georss:where><gml:Point><gml:pos>51.49506473014368 -0.1318359375</gml:pos></gml:Point></georss:where><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/q6imEjOAxb8?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='59' yt:format='5'/><media:content url='rtsp://r5---sn-4g57kuek.c.youtube.com/CiILENy73wIaGQm_xYAzEqaoqxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='59' yt:format='1'/><media:content url='rtsp://r5---sn-4g57kuek.c.youtube.com/CiILENy73wIaGQm_xYAzEqaoqxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='59' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='SunBailante' yt:type='partner'>sunbailante</media:credit><media:description type='plain'>Soundtrack: 
+- Hannah Peel - Tainted Love 
+- Machel Montano - Gyal Wuk 
+
+Join the FAN PAGE of Sun Bailante on Facebook ! 
+http://tinyurl.com/6k9a6zz
+
+The Event on Facebook: http://www.facebook.com/event.php?eid=195137677223926
+
+After an outstanding Carnival party that saw more than 1k revellers taking over the O2 Academy Islington, Sun Bailante presents the darkest Halloween party to date!
+
+We will keep you on your toes as you dance in the DARK with dead people, zombies, ghosts, witches and worse at Cable, London's best club 2011 according to the Guardian and Timeout. http://www.cable-london.com/
+
+There will be 'Glowing &amp; UVlights' effects so dress up in WHITE or wear some element of WHITE to shine in the dark!
+
+MUSIC:
+Our fine Dj's line-up will wake the dead up and get them out of the graves till dawn comes.
+
+Dancehall, Soca, R&amp;B, Hip Hop, Funky House, Reggae, Zouk/Kizomba and more
+
+*********************************************************************************************************************
+Special Guest DJ's --The Heatwave -- Rinse FM &amp; Mc Rubi Dan
+http://www.theheatwave.co.uk/
+ 
+The Heatwave is the UK's Number One Dancehall SoundSystem. They have performed at the biggest events including Glastonbury, Sean Paul's After-party, Outlook Festival...
+
+Alongside our top dj's team:
+- Djahman -- Guadeloupe
+- Dtee -- BBC 1xtra
+- Shakit -- London Squad
+- Jerome -- Sun Bailante
+&amp; Resident host Damian</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=q6imEjOAxb8&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/q6imEjOAxb8/default.jpg' height='90' width='120' time='00:00:29.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/q6imEjOAxb8/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/q6imEjOAxb8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/q6imEjOAxb8/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/q6imEjOAxb8/1.jpg' height='90' width='120' time='00:00:14.750' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/q6imEjOAxb8/2.jpg' height='90' width='120' time='00:00:29.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/q6imEjOAxb8/3.jpg' height='90' width='120' time='00:00:44.250' yt:name='end'/><media:title type='plain'>Halloween In The Dark - They're Coming - SunBailante Party</media:title><yt:duration seconds='59'/><yt:uploaded>2011-10-09T14:14:29.000Z</yt:uploaded><yt:uploaderId>UCWAUxcbiymuFcq6pNB27OYg</yt:uploaderId><yt:videoid>q6imEjOAxb8</yt:videoid></media:group><gd:rating average='3.0' max='5' min='1' numRaters='2' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='95'/><yt:rating numDislikes='1' numLikes='1'/></entry>

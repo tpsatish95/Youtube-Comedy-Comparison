@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DEcNRH47eCp7I2A9XRRWEUQ.&quot;'><id>tag:youtube.com,2008:video:Ub_WFqK8hxM</id><published>2011-09-04T19:22:47.000Z</published><updated>2015-03-01T07:48:15.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Funny old man sining</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/Ub_WFqK8hxM?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=Ub_WFqK8hxM&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Ub_WFqK8hxM/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=Ub_WFqK8hxM'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/MvV_DvfjtfLtAoUQQkV7xg?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Ub_WFqK8hxM?v=2'/><author><name>NSfunclub</name><uri>https://gdata.youtube.com/feeds/api/users/NSfunclub</uri><yt:userId>MvV_DvfjtfLtAoUQQkV7xg</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/Ub_WFqK8hxM/comments?v=2' countHint='2'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/Ub_WFqK8hxM?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='56' yt:format='5'/><media:content url='rtsp://r5---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQkTh7yiFta_URMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='56' yt:format='1'/><media:content url='rtsp://r5---sn-a5m7zu7z.c.youtube.com/CiILENy73wIaGQkTh7yiFta_URMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='56' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='NSfunclub'>nsfunclub</media:credit><media:description type='plain'>This old man, he played one,
+He played knick-knack on my thumb. (on a drum, on my tongue)
+With a knick-knack, paddy whack,
+Give a dog a bone,
+This old man came rolling home.
+
+This old man, he played two,
+He played knick-knack on my shoe.
+(etc.)
+
+This old man, he played three,
+He played knick-knack on my knee. (on my tree)
+(etc.)
+
+This old man, he played four,
+He played knick-knack on my door. (on the floor)
+(etc.)
+
+This old man, he played five,
+He played knick-knack on my hive. (on my knife, on the drive, making a dive, on my thigh, way up high)
+(etc.)
+
+This old man, he played six,
+He played knick-knack with some sticks.
+(etc.)
+
+This old man, he played seven,
+He played knick-knack up in heaven. (on my oven, down in Devon)
+(etc.)
+
+This old man, he played eight,
+He played knick-knack on my gate. (on my plate, on my pate)
+(etc.)
+
+This old man, he played nine,
+He played knick-knack on my spine. (in a line)
+(etc.)
+
+This old man, he played ten,
+He played knick-knack once again. (home again, on my pen, on my shin, on my hen, now and then)
+(etc.)
+
+This old man, he played eleven,
+He played knick-knack on the way to heaven. (down to Devon)
+(etc.)
+
+This old man, he played twelve,
+He played knick-knack on my shelf.
+(etc.)
+
+This old man, he played thirteen,
+He played knick-knack on my curtain.
+(etc.)
+
+This old man, he played fourteen,
+He played knick-knack in the autumn.
+(etc.)
+
+This old man, he played fifteen,
+He collects bronze coins marked 'Ich Dien'.
+(etc.)
+
+This old man, ten add six,
+He played knick-knack on my bricks,
+(etc.)
+
+This old man, ten plus seven,
+He played knick-knack on my bedding,
+(etc.)
+
+This old man, ten plus eight,
+He played knick-knack on my slate,
+(etc.)
+
+This old man, ten plus nine,
+He played knick-knack on my twine.
+(etc.)
+
+This old man, ten plus ten,
+He played knick-knack once again. (on my pen, on my shin, on my hen)
+(etc.)</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=Ub_WFqK8hxM&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/Ub_WFqK8hxM/default.jpg' height='90' width='120' time='00:00:28' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/Ub_WFqK8hxM/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Ub_WFqK8hxM/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Ub_WFqK8hxM/1.jpg' height='90' width='120' time='00:00:14' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/Ub_WFqK8hxM/2.jpg' height='90' width='120' time='00:00:28' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/Ub_WFqK8hxM/3.jpg' height='90' width='120' time='00:00:42' yt:name='end'/><media:title type='plain'>Funny old man sining</media:title><yt:duration seconds='56'/><yt:uploaded>2011-09-04T19:22:47.000Z</yt:uploaded><yt:uploaderId>UCMvV_DvfjtfLtAoUQQkV7xg</yt:uploaderId><yt:videoid>Ub_WFqK8hxM</yt:videoid></media:group><gd:rating average='1.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='539'/><yt:rating numDislikes='1' numLikes='0'/></entry>

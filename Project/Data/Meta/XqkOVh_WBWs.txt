@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;AkECRX47eCp7I2A9XRRXFU8.&quot;'><id>tag:youtube.com,2008:video:XqkOVh_WBWs</id><published>2011-07-12T07:10:59.000Z</published><updated>2015-02-21T14:24:24.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>IDEK 9 3/4 - DELETED SCENES -</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/XqkOVh_WBWs?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=XqkOVh_WBWs&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/XqkOVh_WBWs/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=XqkOVh_WBWs'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/Bp1w5pExHWC0a6AuKZxsSg?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/XqkOVh_WBWs?v=2'/><author><name>DesandNate</name><uri>https://gdata.youtube.com/feeds/api/users/DesandNate</uri><yt:userId>Bp1w5pExHWC0a6AuKZxsSg</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/XqkOVh_WBWs/comments?v=2' countHint='2452'/></gd:comments><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/XqkOVh_WBWs?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='90' yt:format='5'/><media:content url='rtsp://r5---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQlrBdYfVg6pXhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='90' yt:format='1'/><media:content url='rtsp://r5---sn-a5m7zu7r.c.youtube.com/CiILENy73wIaGQlrBdYfVg6pXhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='90' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='DesandNate' yt:type='partner'>desandnate</media:credit><media:description type='plain'>Just the scenes that never made it into my already 7 minute video. Really random and silly. 
+
+TRACKLIST//
+Village Music - Neosounds.com
+Sad Strings - Neosounds.com
+
+===========================
+
+DESTERY PERSONAL CHANNEL:
+http://www.youtube.com/capndesdes
+
+DESTERY GAMING CHANNEL:
+http://www.youtube.com/despwns
+
+NATHAN PERSONAL CHANNEL:
+http://www.youtube.com/ahoynateo
+
+DESANDNATE FACEBOOK:
+http://www.facebook.com/desandnate
+
+DESANDNATE DISTRICTLINES (MERCHANDISE!)
+http://www.districtlines.com/des-and-nate
+
+DESANDNATE DAILYBOOTH:
+http://www.dailybooth.com/desandnate
+
+============================
+
+DESTERY TWITTER: http://www.twitter.com/capndesdes
+
+DESTERY TUMBLR: http://capndesdes.tumblr.com
+
+NATHAN TWITTER: http://www.twitter.com/ahoynateo
+
+NATHAN TUMBLR: http://ahoynateo.tumblr.com</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=XqkOVh_WBWs&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/XqkOVh_WBWs/default.jpg' height='90' width='120' time='00:00:45' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/XqkOVh_WBWs/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/XqkOVh_WBWs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/XqkOVh_WBWs/1.jpg' height='90' width='120' time='00:00:22.500' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/XqkOVh_WBWs/2.jpg' height='90' width='120' time='00:00:45' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/XqkOVh_WBWs/3.jpg' height='90' width='120' time='00:01:07.500' yt:name='end'/><media:title type='plain'>IDEK 9 3/4 - DELETED SCENES -</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='90'/><yt:uploaded>2011-07-12T07:10:59.000Z</yt:uploaded><yt:uploaderId>UCBp1w5pExHWC0a6AuKZxsSg</yt:uploaderId><yt:videoid>XqkOVh_WBWs</yt:videoid></media:group><gd:rating average='4.9810824' max='5' min='1' numRaters='9092' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='402137'/><yt:rating numDislikes='43' numLikes='9049'/></entry>

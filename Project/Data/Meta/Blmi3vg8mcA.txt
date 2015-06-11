@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:georss='http://www.georss.org/georss' xmlns:gml='http://www.opengis.net/gml' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;A0IDQH47eCp7I2A9XRRXFUs.&quot;'><id>tag:youtube.com,2008:video:Blmi3vg8mcA</id><published>2011-12-15T06:32:23.000Z</published><updated>2015-02-22T01:46:11.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Recess Opening Scene remake - Sheridan College</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/Blmi3vg8mcA?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=Blmi3vg8mcA&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Blmi3vg8mcA/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=Blmi3vg8mcA'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/hgRhuI2sQ3MyB6g5doJRTg?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Blmi3vg8mcA?v=2'/><author><name>madeline O'Shaughnessy</name><uri>https://gdata.youtube.com/feeds/api/users/oshaugma</uri><yt:userId>hgRhuI2sQ3MyB6g5doJRTg</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/Blmi3vg8mcA/comments?v=2' countHint='1148'/></gd:comments><georss:where><gml:Point><gml:pos>43.46752 -79.68767</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/Blmi3vg8mcA?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='61' yt:format='5'/><media:content url='rtsp://r1---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQnAmTz43qJZBhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='61' yt:format='1'/><media:content url='rtsp://r1---sn-a5m7zu7k.c.youtube.com/CiILENy73wIaGQnAmTz43qJZBhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='61' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='madeline O&apos;Shaughnessy'>oshaugma</media:credit><media:description type='plain'>Producer - Maddy OʼShaughnessy 
+Director - Bea Macapagal
+Assistant Director - Natalia Atlija
+DOP &amp; Cam Op - Lucas Joseph
+Editor - Angelica Falco
+Production Manager - Sarosh Ahmed
+Cam OP - Justin Williams
+Cam OP - Jon Riera
+Props &amp; Costumes - Larica Perera
+Props &amp; Costumes - Amanda Porter
+Props &amp; Costumes - Derrick Chappell
+Props &amp; Costumes - Andrew Chalk
+Make up - Caroline Stelzner
+Make up - Tabitha Paxton
+
+CAST
+
+T.J. - Dave Johnson
+SPINELLI - Angelica Falco
+GRETCHEN - Carly Williams
+VINCE - Lucas Joseph
+GUS - Adam Cox
+MIKEY - Andrew Watt
+RANDELL - Jordan McEwen
+FINSTER - Kim Murton
+UPSIDE DOWN GIRL - Danielle Clayson
+DIGGER 1 - Justin Williams
+DIGGER 2 - Ryan Ongaro
+KINDERGARTNER 1 - Will Fitzpatrick
+KINDERGARTNER 2 - Jonathon Comber
+KINDERGARTNER 3 - TBD
+GUARD 1 - Ray Savaya
+GUARD 2 - Michael Peeling
+SCARED BOY - Roman Tchjen
+KING BOB - John Kneller
+HUSTLA - Connor Sullivan
+
+
+For TV Studio we all got together to make this little gem of a project. 
+
+Day well spent guys... day well spent. 
+
+(c) Sheridan College, Media Arts class of 2013.</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=Blmi3vg8mcA&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/Blmi3vg8mcA/default.jpg' height='90' width='120' time='00:00:30.500' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/Blmi3vg8mcA/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Blmi3vg8mcA/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/Blmi3vg8mcA/sddefault.jpg' height='480' width='640' yt:name='sddefault'/><media:thumbnail url='https://i.ytimg.com/vi/Blmi3vg8mcA/1.jpg' height='90' width='120' time='00:00:15.250' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/Blmi3vg8mcA/2.jpg' height='90' width='120' time='00:00:30.500' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/Blmi3vg8mcA/3.jpg' height='90' width='120' time='00:00:45.750' yt:name='end'/><media:title type='plain'>Recess Opening Scene remake - Sheridan College</media:title><yt:aspectRatio>widescreen</yt:aspectRatio><yt:duration seconds='61'/><yt:uploaded>2011-12-15T06:32:23.000Z</yt:uploaded><yt:uploaderId>UChgRhuI2sQ3MyB6g5doJRTg</yt:uploaderId><yt:videoid>Blmi3vg8mcA</yt:videoid></media:group><gd:rating average='4.9592' max='5' min='1' numRaters='12647' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='581797'/><yt:rating numDislikes='129' numLikes='12518'/></entry>

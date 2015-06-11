@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;CUcAQH47eCp7I2A9XRRXFk8.&quot;'><id>tag:youtube.com,2008:video:qlUVGf8B2yc</id><published>2008-04-02T06:42:44.000Z</published><updated>2015-02-22T16:37:21.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/><title>Retarded Policeman #8: Tazer</title><content type='application/x-shockwave-flash' src='https://www.youtube.com/v/qlUVGf8B2yc?version=3&amp;f=videos&amp;app=youtube_gdata'/><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=qlUVGf8B2yc&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/qlUVGf8B2yc/related?v=2'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=qlUVGf8B2yc'/><link rel='http://gdata.youtube.com/schemas/2007#uploader' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UQYeJ6D3qDlQkMboh-8-xw?v=2'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/qlUVGf8B2yc?v=2'/><author><name>MediocreFilms</name><uri>https://gdata.youtube.com/feeds/api/users/MediocreFilms</uri><yt:userId>UQYeJ6D3qDlQkMboh-8-xw</yt:userId></author><yt:accessControl action='comment' permission='allowed'/><yt:accessControl action='commentVote' permission='allowed'/><yt:accessControl action='videoRespond' permission='moderated'/><yt:accessControl action='rate' permission='allowed'/><yt:accessControl action='embed' permission='allowed'/><yt:accessControl action='list' permission='allowed'/><yt:accessControl action='autoPlay' permission='allowed'/><yt:accessControl action='syndicate' permission='allowed'/><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/qlUVGf8B2yc/comments?v=2' countHint='12119'/></gd:comments><media:group><media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category><media:content url='https://www.youtube.com/v/qlUVGf8B2yc?version=3&amp;f=videos&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='88' yt:format='5'/><media:content url='rtsp://r6---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQkn2wH_GRVVqhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='88' yt:format='1'/><media:content url='rtsp://r6---sn-a5m7zu7d.c.youtube.com/CiILENy73wIaGQkn2wH_GRVVqhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='88' yt:format='6'/><media:credit role='uploader' scheme='urn:youtube' yt:display='MediocreFilms' yt:type='partner'>mediocrefilms</media:credit><media:description type='plain'>NEW RP 2012 EPISODES ARE HERE!!! http://youtu.be/I63_Zw1lnso
+
+Special Edition DVD! http://bit.ly/hccMLv
+
+Thanks for supporting us!!
+
+Before you leave mean comments, just know that our friend Ponce (the Cop) is an awesome and talented young dude who loves performing and making light of his Down syndrome.  He's a smart and funny guy, and has complete awareness of his actions and decisions.  And we all had a great time shooting "Retarded Policeman!"
+
+DOES PONCE GET PAID FOR THIS!?
+YES!!!  He's not only our friend, but also this is a real acting job for him.  The more people who subscribe and watch, the more money he makes.  (More subscribers = more views = more money for Ponce.)
+
+THANKS FOR SUBSCRIBING!
+
+Retarded Policeman: The Series
+
+series created by Greg Benson &amp; Kim Evey
+based on an idea by Kim Evey
+directed &amp; edited by Greg Benson
+written by Greg Benson
+starring Josh "The Ponceman" Perry
+guest starring Mark McCracken &amp; Laura House
+associate producer Scott Perry
+theme song by Greg Benson
+camera by Greg Benson
+sound by Scott Perry
+bouncing by Valerie Querns
+
+More Videos! http://www.mediocrefilms.com
+Follow the Funny! http://twitter.com/mediocrefilms
+In Your Face! http://facebook.com/mediocrefilms</media:description><media:keywords/><media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license><media:player url='https://www.youtube.com/watch?v=qlUVGf8B2yc&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/qlUVGf8B2yc/default.jpg' height='90' width='120' time='00:00:44' yt:name='default'/><media:thumbnail url='https://i.ytimg.com/vi/qlUVGf8B2yc/mqdefault.jpg' height='180' width='320' yt:name='mqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/qlUVGf8B2yc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/><media:thumbnail url='https://i.ytimg.com/vi/qlUVGf8B2yc/1.jpg' height='90' width='120' time='00:00:22' yt:name='start'/><media:thumbnail url='https://i.ytimg.com/vi/qlUVGf8B2yc/2.jpg' height='90' width='120' time='00:00:44' yt:name='middle'/><media:thumbnail url='https://i.ytimg.com/vi/qlUVGf8B2yc/3.jpg' height='90' width='120' time='00:01:06' yt:name='end'/><media:title type='plain'>Retarded Policeman #8: Tazer</media:title><yt:duration seconds='88'/><yt:uploaded>2008-04-02T06:42:44.000Z</yt:uploaded><yt:uploaderId>UCUQYeJ6D3qDlQkMboh-8-xw</yt:uploaderId><yt:videoid>qlUVGf8B2yc</yt:videoid></media:group><gd:rating average='4.704651' max='5' min='1' numRaters='30662' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='13441399'/><yt:rating numDislikes='2264' numLikes='28398'/></entry>
