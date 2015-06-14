@@ -1,13 +1,12 @@
-__author__ = 'satish'
+from __future__ import print_function
 
+__author__ = 'satish'
 
 # Adopted From: Peter Prettenhofer <peter.prettenhofer@gmail.com>
 #               Olivier Grisel <olivier.grisel@ensta.org>
 #               Mathieu Blondel <mathieu@mblondel.org>
 #               Lars Buitinck <L.J.Buitinck@uva.nl>
 # License: BSD 3 clause
-
-from __future__ import print_function
 
 import logging
 import numpy as np
@@ -45,18 +44,17 @@ def load_obj(name ):
         return pickle.load(f)
 
 # read in 10 classes of [Most Funny,.... ,Least Funny]
-Part10 = load_obj("Chunky10Ranked")
-
+Part10 = load_obj("Chunky10Rankedi")
 
 map = dict()
 i = 1
 loop = 1
 #concatenation factor of 10parts ;;; if concat=5 => 10/5= 2Parts
-concat = 1
+concat = 5
 
 for part in Part10:
     for vid in part:
-        map[vid[0]] = i
+        map[vid.strip()] = i
     if loop%concat == 0:
         i+=1
     loop+=1
@@ -71,7 +69,10 @@ for k in DataDict.keys():
     TDC = DataDict[k]
     rank = map[k]
     data  = ""
-    data  = TDC[0] + " " + TDC[1]
+    if TDC[0] != "none":
+        data  = TDC[0]
+        if TDC[1] != "none":
+            data = data + " " + TDC[1]
     for com in TDC[2]:
         data = data + " " + com
     DesignMatrix.append([data.encode("UTF-8"),rank])
@@ -87,7 +88,7 @@ print(len(X))
 X = np.array(X)
 y = np.array(y)
 
-skf = cross_validation.StratifiedKFold(y, n_folds=10,shuffle=True)
+skf = cross_validation.StratifiedKFold(y, n_folds=2,shuffle=True)
 print(skf)
 
 for train_index, test_index in skf:
@@ -96,9 +97,9 @@ for train_index, test_index in skf:
     y_train, y_test = y[train_index], y[test_index]
     print('data loaded')
 
-    categories = ["1","2","3","4","5","6","7","8","9","10"]
+    # categories = ["1","2","3","4","5","6","7","8","9","10"]
     # categories = ["1","2","3","4","5"]
-    # categories = ["1","2"]
+    categories = ["1","2"]
 
     def size_mb(docs):
         return sum(len(s) for s in docs) / 1e6
@@ -137,7 +138,7 @@ for train_index, test_index in skf:
     feature_names = vectorizer.get_feature_names()
 
     ### Vary K Value
-    kkk=3000
+    kkk=5000
     print("Extracting "+str(kkk) +" best features by a chi-squared test")
     t0 = time()
     ch2 = SelectKBest(chi2, k=kkk)
@@ -158,7 +159,7 @@ for train_index, test_index in skf:
         print("Training: ")
         print(clf)
         t0 = time()
-        print(clf.__name__)
+        # print(clf.__name__)
 
         clf.fit(X_train, y_train)
         train_time = time() - t0
@@ -196,15 +197,6 @@ for train_index, test_index in skf:
         return clf_descr, score, train_time, test_time
 
     results = []
-
-    for clf, name in (
-            (RidgeClassifier(tol=1e-2, solver="lsqr"), "Ridge Classifier"),
-            (KNeighborsClassifier(n_neighbors=3), "kNN"),
-            (RandomForestClassifier(n_estimators=100), "Random forest")
-            ):
-        print('=' * 80)
-        print(name)
-        results.append(benchmark(clf))
 
     for penalty in ["l2", "l1"]:
         print('=' * 80)

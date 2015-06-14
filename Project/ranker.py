@@ -71,11 +71,51 @@ print(TempRanks[len(TempRanks)-1])
 save_obj(TempRanks,"rankedVidIds")
 
 
-# Split to 5 classes
-
+# Split to 10 classes
 
 Part10 = chunks(TempRanks,math.ceil(len(TempRanks)/10))
 
 save_obj(Part10,"Chunky10Ranked")
 
 # print(len(Part10))
+
+# We dont have data for all VidID so remove those and form new rankings
+
+Ranks = []
+
+DM = load_obj("ProcessedDesignMatrix")
+
+for r in TempRanks:
+    try:
+        if DM[r]:
+            Ranks.append(r)
+    except:
+        print("Skipped")
+        continue
+# Chunk It
+Part10i = chunks(Ranks,math.ceil(len(Ranks)/10))
+save_obj(Part10i,"Chunky10Rankedi")
+
+
+######## JUST 2 Classes ( F and NF )
+
+TrueHighest = []
+TrueLowest = []
+
+for r in highest:
+    try:
+        if DM[r]:
+            TrueHighest.append(r)
+    except:
+        print("Skipped")
+        continue
+for r in lowest:
+    try:
+        if DM[r]:
+            TrueLowest.append(r)
+    except:
+        print("Skipped")
+        continue
+
+save_obj(TrueHighest,"funnyVidID")
+save_obj(TrueLowest,"notFunnyVidID")
