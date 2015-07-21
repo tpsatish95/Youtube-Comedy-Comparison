@@ -12,7 +12,8 @@ from time import time
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import cross_validation
-from sklearn.svm import LinearSVC
+# from sklearn.svm import LinearSVC
+from sklearn.svm import SVR
 from sklearn.utils.extmath import density
 from sklearn import metrics
 import pickle
@@ -42,19 +43,19 @@ def benchmark(clf):
     train_time = time() - t0
     print("train time: %0.3fs" % train_time)
 
-    t0 = time()
-    pred = clf.predict(X_test)
-    test_time = time() - t0
-    print("test time:  %0.3fs" % test_time)
+    # t0 = time()
+    # pred = clf.predict(X_test)
+    # test_time = time() - t0
+    # print("test time:  %0.3fs" % test_time)
 
-    score = metrics.accuracy_score(y_test, pred)
-    print("accuracy:   %0.3f" % score)
+    # score = metrics.accuracy_score(y_test, pred)
+    # print("accuracy:   %0.3f" % score)
 
-    print("classification report:")
-    print(metrics.classification_report(y_test, pred,target_names=categories))
+    # print("classification report:")
+    # print(metrics.classification_report(y_test, pred,target_names=categories))
 
-    print("confusion matrix:")
-    print(metrics.confusion_matrix(y_test, pred))
+    # print("confusion matrix:")
+    # print(metrics.confusion_matrix(y_test, pred))
 
     return clf
 
@@ -73,6 +74,7 @@ class Model(object):
 		return pred[0]
 
 
+# UnComment if needed to generate it again
 # funVidID = load_obj("funnyVidID")
 # notfunVidID = load_obj("notFunnyVidID")
 
@@ -92,7 +94,7 @@ class Model(object):
 # X = []
 # y = []
 
-# j=0
+# j = 0.0
 
 # for vidid in [notfunVidID,funVidID]:
 #     for k in vidid:
@@ -113,7 +115,7 @@ class Model(object):
 #         X.append([TP,DP,CP])
 #         y.append(rank)
 #     print(str(j) + " Data loaded")
-#     j = 1
+#     j = 1.0
 # X_train = np.array(X)
 # y_train = np.array(y)
 
@@ -127,37 +129,43 @@ print('Vecs loaded')
 
 categories = ["NotFunny","Funny"]
 
-skf = cross_validation.StratifiedKFold(y, n_folds=2,shuffle=True)
-print(skf)
+# skf = cross_validation.StratifiedKFold(y, n_folds=2,shuffle=True)
+# print(skf)
 
-for train_index, test_index in skf:
-    print("TRAIN:", train_index, "TEST:", test_index)
-    X_train, X_test = X[train_index], X[test_index]
-    y_train, y_test = y[train_index], y[test_index]
-    print('data loaded')
+# for train_index, test_index in skf:
+    # print("TRAIN:", train_index, "TEST:", test_index)
+    # X_train, X_test = X[train_index], X[test_index]
+    # y_train, y_test = y[train_index], y[test_index]
+X_train = X
+y_train = y
+print('data loaded')
 
-    def size_mb(docs):
-        return sum(len(s) for s in docs) / 1e6
-    data_train_size_mb = size_mb(X_train)
-    data_test_size_mb = size_mb(X_test)
+def size_mb(docs):
+    return sum(len(s) for s in docs) / 1e6
+data_train_size_mb = size_mb(X_train)
+# data_test_size_mb = size_mb(X_test)
 
-    print("%d documents - %0.3fMB (training set)" % (
-        len(X_train), data_train_size_mb))
-    print("%d documents - %0.3fMB (test set)" % (
-        len(X_test), data_test_size_mb))
-    print("%d categories" % len(categories))
-    print()
+print("%d documents - %0.3fMB (training set)" % (
+    len(X_train), data_train_size_mb))
+# print("%d documents - %0.3fMB (test set)" % (
+#     len(X_test), data_test_size_mb))
+print("%d categories" % len(categories))
+print()
 
-    print("%d documents - %0.3fMB (training set)" % (
-        len(X_train), data_train_size_mb))
-    print("%d categories" % len(categories))
-    print()
+print("%d documents - %0.3fMB (training set)" % (
+    len(X_train), data_train_size_mb))
+print("%d categories" % len(categories))
+print()
 
-    print("n_samples: %d, n_features: %d" % X_train.shape)
-    print()
+print("n_samples: %d, n_features: %d" % X_train.shape)
+print()
 
 
-    print('=' * 80)
-    print("L2 penalty")
-    # Train Liblinear model
-    clf = benchmark(LinearSVC(loss='l2', penalty="l2",dual=False, tol=1e-3))
+print('=' * 80)
+print("L2 penalty")
+# Train Liblinear model
+# clf = benchmark(LinearSVC(loss='l2', penalty="l2",dual=False, tol=1e-3))
+
+svr_lin = benchmark(SVR(kernel='linear'))
+
+save_obj(svr_lin,"BaggedSVRClassifierModel")
